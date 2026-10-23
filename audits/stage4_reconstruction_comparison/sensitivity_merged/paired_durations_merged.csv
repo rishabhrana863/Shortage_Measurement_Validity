@@ -1,0 +1,165 @@
+identity,headings,exit_status,event,R1_days,R2_earliest_days,R2_latest_days
+Isoniazid Injection,1,RESOLVED,1,958,976,916
+Dulaglutide (Trulicity) Injection,1,ONGOING,0,371,441,342
+I.V. Fat Emulsion,1,ONGOING,0,787,792,751
+Vandetanib Tablets,1,RESOLVED,1,106,331,23
+Tirzepatide Injection,1,ONGOING,0,371,441,342
+Clonazepam Tablet,1,ONGOING,0,286,294,271
+Floxuridine for Injection,1,RESOLVED,1,880,881,869
+Chloroprocaine Hydrochloride Injection,1,ONGOING,0,948,953,944
+Sodium Phosphates Injection,1,ONGOING,0,841,846,806
+Alprostadil (Muse) Suppository,1,ONGOING,0,429,441,342
+"Albuterol Sulfate Inhalation Solution, 0.5%",1,ONGOING,0,422,441,342
+Lutetium Lu 177 Vipivotide Tetraxetan (Pluvicto) Injection,1,RESOLVED,1,232,237,214
+Nitroglycerin Injection,2,ONGOING,0,76,221,37
+Somatropin Injection,1,ONGOING,0,349,441,342
+Indigotindisulfonate Sodium Injection,1,ONGOING,0,485,751,443
+Methamphetamine Hydrochloride Tablet,1,ONGOING,0,279,294,271
+Amifostine Injection,1,ONGOING,0,1309,1358,1287
+Oxybutynin Chloride Syrup,1,ONGOING,0,373,441,342
+Tocilizumab Injection,1,RESOLVED,1,225,240,215
+Midazolam Injection,2,ONGOING,0,1358,1453,1358
+Diazepam Gel,1,ONGOING,0,45,221,37
+Vecuronium Bromide for Injection,1,ONGOING,0,1324,1358,1287
+Lithium Oral Solution,1,ONGOING,0,1324,1358,1287
+Famotidine Tablets,1,RESOLVED,1,555,587,516
+Streptozocin (Zanosar) Sterile Powder,1,ONGOING,0,527,751,443
+Dexmedetomidine Hydrochloride Injection,1,ONGOING,0,1350,1008,983
+Dimercaprol (Bal in Oil) Injection USP,1,RESOLVED,1,414,453,382
+Cortisone Acetate Tablets,1,DISAPPEARED,0,779,787,762
+"Lisdexamfetamine Dimesylate Tablet, Chewable",1,ONGOING,0,160,221,37
+Ceftolozane and Tazobactam (Zerbaxa) Injection,1,RESOLVED,1,434,478,421
+Ranitidine Tablets/Capsules,1,DISAPPEARED,0,573,582,487
+Continuous Renal Replacement Therapy (CRRT) Solutions,1,RESOLVED,1,889,909,838
+Valproate Sodium Injection,1,ONGOING,0,1086,1125,1068
+Desmopressin Acetate Spray,1,ONGOING,0,1014,221,37
+Mepivacaine Hydrochloride Injection,1,ONGOING,0,890,944,871
+Rocuronium Bromide Injection,1,ONGOING,0,309,328,294
+Methohexital Sodium (Brevital) Injection,1,RESOLVED,1,178,187,178
+Metronidazole Injection,1,ONGOING,0,707,751,443
+Desmopressin Acetate Nasal Spray,1,ONGOING,0,1014,1068,1008
+Multi-Vitamin Infusion (Adult and Pediatric) Injection,1,ONGOING,0,97,221,37
+Diflunisal Tablets,1,RESOLVED,1,525,612,304
+Sterile Water for Injection,1,ONGOING,0,758,792,751
+Dimercaprol (Bal in Oil) Injection,1,DISAPPEARED,0,72,73,50
+Collagenase Ointment,1,ONGOING,0,395,441,342
+Remifentanil Hydrochloride Injection,1,ONGOING,0,541,268,221
+Acetazolamide Injection,1,RESOLVED,1,562,573,516
+Quinapril and Hydrochlorothiazide Tablets,1,ONGOING,0,336,342,328
+Gentamicin Sulfate Injection,1,ONGOING,0,881,944,871
+Lisdexamfetamine Dimesylate Capsule,1,ONGOING,0,160,221,37
+Calcium Gluconate Injection,1,RESOLVED,1,897,839,766
+Mannitol Injection,1,ONGOING,0,819,846,806
+Promethazine Hydrochloride Injection,1,ONGOING,0,30,37,14
+Nizatidine Capsules,1,ONGOING,0,1382,1453,1358
+Sterile Water Irrigant,1,ONGOING,0,237,268,221
+Sulfasalazine Tablet,2,ONGOING,0,1336,1358,1287
+Sodium Chloride 14.6% Injection,1,ONGOING,0,625,751,443
+"Amoxicillin Powder, For Suspension",1,ONGOING,0,419,441,342
+Hydralazine Hydrochloride Injection,1,RESOLVED,1,294,309,287
+Cytarabine Injection,1,ONGOING,0,818,846,806
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",1,ONGOING,0,435,294,271
+Diazepam Rectal Gel,1,ONGOING,0,554,751,443
+Chloroquine Phosphate Tablets,1,RESOLVED,1,38,131,36
+Semaglutide (WEGOVY®) Injection,1,ONGOING,0,630,751,443
+Difluprednate Ophthalmic Emulsion,1,ONGOING,0,365,441,342
+"Amphetamine Oral Suspension, Extended Release",1,RESOLVED,1,269,269,0
+Pindolol Tablets,1,RESOLVED,1,690,744,649
+Technetium TC-99m Sodium Pertechnetate Generator,1,RESOLVED,1,62,104,5
+Clindamycin Phosphate Injection,1,ONGOING,0,275,294,271
+Chloramphenicol Sodium Succinate Injection,1,ONGOING,0,260,268,221
+Cisatracurium Besylate Injection,1,RESOLVED,1,475,481,410
+Calcium Disodium Versenate Injection,1,DISAPPEARED,0,831,847,787
+Quinapril Hydrochloride Tablets,1,ONGOING,0,336,342,328
+Teprotumumab-trbw,1,RESOLVED,1,856,888,831
+"Sodium Phosphate, Dibasic, Anhydrous, Sodium Phosphate, Monobasic, Monohydrate Injection",1,ONGOING,0,841,294,271
+Hydroxypropyl (Lacrisert) Cellulose Ophthalmic Insert,1,ONGOING,0,1329,1358,1287
+"Atropa Belladonna, Opium Suppository",1,ONGOING,0,505,221,37
+"Conjugated Estrogens/Bazedoxifene (DUAVEE) Tablet, Film Coated",1,ONGOING,0,456,751,443
+Digoxin Injection,1,ONGOING,0,930,944,871
+Histreline Acetate Implant,1,DISAPPEARED,0,197,222,162
+Varenicline Tartrate (Chantix) Tablets,1,RESOLVED,1,336,370,297
+Doxycycline Hyclate Injection,1,RESOLVED,1,181,183,176
+Fentanyl Citrate Injection,1,ONGOING,0,1,14,0
+Propranolol Hydrochloride Injection,1,ONGOING,0,51,221,37
+Erythromycin Ointment,1,ONGOING,0,533,221,37
+Cyclopentolate Ophthalmic Solution,1,ONGOING,0,1137,1147,1136
+Propofol Injectable Emulsion,1,RESOLVED,1,955,963,892
+Hydroxocobalamin Injection,1,RESOLVED,1,276,284,254
+Ibutilide Fumarate Injection,1,RESOLVED,1,503,653,345
+Technetium Tc 99m Sulfur Colloid Injection,1,RESOLVED,1,203,205,191
+Liraglutide Injection,1,ONGOING,0,156,221,37
+Semaglutide Injection,2,ONGOING,0,485,751,443
+Disopyramide Phosphate (Norpace) Capsules,1,ONGOING,0,1007,1008,983
+Pentostatin Injection,1,DISAPPEARED,0,418,530,222
+Chlorothiazide Oral Suspension,1,RESOLVED,1,267,342,243
+Methotrexate Injection,1,ONGOING,0,283,294,271
+Azacitidine for Injection,1,ONGOING,0,1098,1125,1068
+Misoprostol Tablets,1,RESOLVED,1,438,475,418
+Sodium Chloride 0.9% Injection,1,ONGOING,0,741,221,37
+Sufentanil Citrate Injection,1,ONGOING,0,597,751,443
+Lutetium Lu 177 Dotatate (LUTATHERA) Injection,1,RESOLVED,1,81,244,0
+Carboplatin Injection,1,ONGOING,0,237,268,221
+Rifampin Capsules,1,ONGOING,0,729,751,443
+Famotidine Injection,1,RESOLVED,1,554,587,516
+Sucralfate Tablets,1,ONGOING,0,351,441,342
+Dextrose 5% Injection,1,ONGOING,0,675,751,443
+Penicillin G Benzathine Injection,1,ONGOING,0,239,268,221
+Trimethobenzamide Hydrochloride Capsules,1,ONGOING,0,1038,1068,1008
+Crisantaspase (Erwinase),1,DISAPPEARED,0,63,98,25
+Hydrocortisone Sodium Succinate Injection,1,ONGOING,0,272,294,271
+Fluorescein Sodium Injection,1,RESOLVED,1,228,252,205
+Difluprednate Emulsion,1,ONGOING,0,365,268,221
+Fludarabine Phosphate Injection,1,ONGOING,0,594,751,443
+Furosemide Injection,2,ONGOING,0,1353,1358,1287
+Cisplatin Injection,1,ONGOING,0,314,328,294
+Dextrose 10% Injection,1,ONGOING,0,660,751,443
+Dextrose Monohydrate Injection,1,ONGOING,0,675,221,37
+Timolol Maleate Ophthalmic Solution,1,RESOLVED,1,322,379,308
+Bacteriostatic 0.9% Sodium Chloride Injection,1,ONGOING,0,743,751,443
+Methotrexate Sodium Tablet,1,ONGOING,0,153,221,37
+Cromolyn Sodium Concentrate,1,ONGOING,0,48,221,37
+Conivaptan Hydrochloride (Vaprisol) in 5% Dextrose Plastic Container,1,ONGOING,0,647,751,443
+Atropine Sulfate Injection,1,ONGOING,0,1450,14,0
+Succimer (Chemet) Capsules,1,RESOLVED,1,200,240,180
+Triamcinolone Acetonide Injectable Suspension,1,ONGOING,0,815,846,806
+Isoniazid Tablet,1,ONGOING,0,218,221,37
+"Methylphenidate Hydrochloride Tablet, Extended Release",1,ONGOING,0,148,221,37
+Rifapentine Tablets,1,ONGOING,0,1366,1453,1358
+Technetium TC-99M Mebrofenin Injection,1,RESOLVED,1,498,618,310
+Dexmedetomidine Injection,1,ONGOING,0,1350,1358,1287
+Sodium Chloride 0.9% Injection Bags,1,ONGOING,0,741,751,443
+Methylprednisolone Acetate Injection,1,ONGOING,0,736,751,443
+Iomeprol Injection,2,RESOLVED,1,166,392,84
+Amoxapine Tablets,1,ONGOING,0,1382,1453,1358
+Tobramycin Lyophilized Powder for Injection,1,RESOLVED,1,231,231,209
+Flurazepam Hydrochloride Capsule,1,ONGOING,0,30,37,14
+Triamcinolone Hexacetonide Injectable suspension,1,ONGOING,0,961,983,953
+Chlorothiazide (Diuril) Oral Suspension,1,RESOLVED,1,138,166,135
+Nefazodone Hydrochloride Tablets,1,RESOLVED,1,630,633,621
+Sterile Water for Irrigation,1,DISAPPEARED,0,16,47,0
+Protamine Sulfate Injection,1,RESOLVED,1,542,550,520
+Potassium Chloride Concentrate Injection,1,ONGOING,0,779,792,751
+Azithromycin Tablets,1,RESOLVED,1,260,272,201
+"AVYCAZ® (ceftazidime and avibactam) for Injection, 2 grams/0.5 grams",1,RESOLVED,1,712,771,676
+Iodixanol Injection,1,RESOLVED,1,156,316,8
+IV Fat Emulsion,1,ONGOING,0,787,792,751
+Rifampin Injection,1,ONGOING,0,1037,1068,1008
+Palifermin (Kepivance) Lyophilized Powder for Injection,1,RESOLVED,1,250,264,230
+Sodium Chloride 23.4% Injection,1,ONGOING,0,1450,221,37
+Chlordiazepoxide Hydrochloride Capsules,1,RESOLVED,1,574,586,561
+Iopromide (Ultravist) Injection,1,RESOLVED,1,158,335,27
+Amino Acid Injection,1,ONGOING,0,1108,1125,1068
+Remifentanil Injection,1,ONGOING,0,541,751,443
+Neomycin Sulfate Tablets,1,ONGOING,0,400,441,342
+Cyclopentolate Hydrochloride Ophthalmic Solution,1,ONGOING,0,1137,1147,1136
+Capecitabine Tablet,2,ONGOING,0,315,328,294
+Dacarbazine Injection,1,ONGOING,0,792,792,751
+Cefixime Oral Capsules,1,ONGOING,0,699,751,443
+Timolol Maleate Ophthalmic Gel Forming Solution,1,RESOLVED,1,493,550,479
+Cysteamine Hydrochloride Ophthalmic Solution,1,RESOLVED,1,589,590,586
+Bacteriostatic Water for Injection,1,ONGOING,0,748,751,443
+"Rivaroxaban Granule, For Suspension",1,RESOLVED,1,30,59,0
+Lidocaine Hydrochloride Solution,1,ONGOING,0,217,221,37
+Verteporfin (Visudyne) Injection,1,RESOLVED,1,114,126,27
+0.9% Sodium Chloride Irrigation,2,ONGOING,0,237,268,221
