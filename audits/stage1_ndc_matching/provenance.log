@@ -1,0 +1,4 @@
+run_utc=2026-10-21T21:25:11.666938+00:00
+episodes=FDA_Recovery_Time_Validation.xlsx
+current	/tmp/claude-0/-home-claude/ec34a52b-b379-507a-a668-cf194a898713/scratchpad/fda_inputs/ndc/product.txt	sha256=c67dbd3d6dd4388561d273aaa7fb4254d641fd1ba5e8c2660ed2c0ba938da699	mtime=2026-10-21T04:06:32
+current	/tmp/claude-0/-home-claude/ec34a52b-b379-507a-a668-cf194a898713/scratchpad/fda_inputs/ob/products.txt	sha256=56f87b264ea747e62a1bc28241e0845800e355921dcd6c8afad46b335eb22174	mtime=2026-10-09T06:30:50

@@ -1,0 +1,5 @@
+rule,spells,events,ambiguous_exit_excluded,KM_median_days,S_110,S_180,S_365,share_obs_duration_gt_1y,note
+R1 posting-anchored (common set),173,51,11,not reached,0.97,0.925,0.823,0.607,onset = earliest recorded FDA posting
+"R2 archive-observed, earliest plausible onset",173,51,11,not reached,0.988,0.97,0.84,0.578,onset = snapshot before first sighting
+"R2 archive-observed, latest plausible onset",173,51,11,916,0.933,0.905,0.789,0.468,onset = first sighting
+R0 NDC-level (same drugs),1037,224,0,not reached,0.991,0.973,0.883,0.553,each NDC row counted as a spell

@@ -1,0 +1,299 @@
+generic,n_ndc,posting,first_seen,last_seen,prev,exit_status,exit_date,event,r2_eligible,n_resolved_ndc
+Penicillamine (Depen) Titratable Tablets,1,2018-01-04,2019-12-29,2020-11-21,,RESOLVED,2019-10-01,1,False,1
+Cefepime Injection,3,2018-01-11,2019-12-29,2021-08-02,,RESOLVED,2021-02-10,1,False,3
+Piperacillin and Tazobactam (Zosyn) Injection,5,2018-01-12,2019-12-29,2019-12-29,,DISAPPEARED,2019-12-29,0,False,0
+Sterile Water,14,2018-01-22,2019-12-29,2021-11-30,,RESOLVED,2019-08-02,1,False,14
+Methylphenidate Hydrochloride (QUILLICHEW ER) Extended-Release Chewable Tablets,3,2018-01-22,2019-12-29,2020-09-30,,RESOLVED,2019-08-09,1,False,3
+Methylphenidate Hydrochloride (QUILLIVANT XR) for Extended-Release Oral Suspension,4,2018-01-22,2019-12-29,2020-11-21,,RESOLVED,2020-10-07,1,False,4
+Dorzolamide Hydrochloride Ophthalmic Solution,6,2018-01-24,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,4
+Dorzolamide Hydrochloride and Timolol Maleate (Cosopt) Ophthalmic Solution,7,2018-01-24,2019-12-29,2023-05-14,,RESOLVED,2021-05-10,1,False,7
+Etoposide Injection,6,2018-01-24,2019-12-29,2019-12-29,,RESOLVED,2019-06-12,1,False,6
+"Bumetanide Injection, USP",2,2018-01-31,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Bumetanide Injection,4,2018-01-31,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,False,0
+Thioridazine Hydrochloride Tablets,4,2018-02-02,2019-12-29,2020-11-21,,RESOLVED,2020-01-07,1,False,4
+"Deferoxamine Mesylate for Injection, USP",5,2018-02-02,2019-12-29,2021-11-30,,RESOLVED,2019-09-10,1,False,5
+Fluorescein Strips,3,2018-02-06,2019-12-29,2023-05-14,,RESOLVED,2021-06-04,1,False,3
+Remifentanil (Ultiva) Lyophilized Powder for Solution Injection,4,2018-02-06,2019-12-29,2020-11-21,,RESOLVED,2020-03-02,1,False,4
+Ketamine Injection,13,2018-02-16,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Ketamine Hydrochloride Injection,3,2018-02-16,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,False,0
+"Bupivacaine Hydrochloride Injection, USP",29,2018-02-20,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Bupivacaine Hydrochloride and Epinephrine Injection, USP",13,2018-02-20,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Lidocaine Hydrochloride (Xylocaine) Injection,20,2018-02-20,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Bupivacaine Hydrochloride Injection,3,2018-02-20,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,False,0
+Diltiazem Hydrochloride,3,2018-02-21,2019-12-29,2023-05-14,,DISAPPEARED,2023-05-14,0,False,0
+Diltiazem Hydrochloride Injection,8,2018-02-21,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Zolpidem Tartrate (Edluar) Sublingual Tablets,1,2018-03-16,2019-12-29,2023-05-14,,RESOLVED,2018-11-21,1,False,1
+"Phenytoin Sodium Injection, USP",2,2018-03-23,2019-12-29,2021-11-30,,RESOLVED,2019-09-03,1,False,2
+Ropivacaine Hydrochloride Injection,26,2018-03-23,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Ketorolac Tromethamine Injection,24,2018-03-23,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Leucovorin Calcium Injection,2,2018-03-23,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,False,0
+"Ketorolac Tromethamine Tablet, Film Coated",1,2018-03-26,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,False,0
+Ondansetron Hydrochloride Injection,21,2018-04-11,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,20
+Leuprolide Acetate Injection,17,2018-04-11,2019-12-29,2023-05-14,,RESOLVED,2022-10-24,1,False,17
+Eflornithine Hydrochloride (Vaniqa) Cream,1,2018-04-18,2019-12-29,2019-12-29,,RESOLVED,2019-06-12,1,False,1
+Potassium Chloride Injection,4,2018-04-19,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,1
+Methadone Hydrochloride Injection,2,2018-04-25,2019-12-29,2023-05-14,,RESOLVED,2021-06-08,1,False,2
+"Lorazepam Injection, USP",14,2018-05-03,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Epinephrine Injection, Auto-Injector",13,2018-05-09,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,11
+Azithromycin (Azasite) Ophthalmic Solution 1%,2,2018-05-09,2019-12-29,2023-12-21,,RESOLVED,2023-08-03,1,False,2
+Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution,2,2018-05-10,2019-12-29,2020-11-21,,RESOLVED,2019-12-11,1,False,2
+Isocarboxazid Tablets,1,2018-05-15,2019-12-29,2020-11-21,,RESOLVED,2020-01-10,1,False,1
+"Erythromycin Lactobionate for Injection, USP",2,2018-05-21,2019-12-29,2021-08-02,,RESOLVED,2020-12-09,1,False,2
+Dextrose 5% Injection Bags,6,2018-06-05,2019-12-29,2021-11-30,,RESOLVED,2019-09-23,1,False,6
+Fluorescein Injection,6,2018-06-15,2019-12-29,2023-03-28,,RESOLVED,2022-12-07,1,False,6
+"Sodium Chloride Injection, 0.9% Vials and Syringes",3,2018-06-21,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,False,0
+"Sodium Chloride Injection USP, 0.9% Vials and Syringes",5,2018-06-21,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Aminophylline Injection, USP",2,2018-07-24,2019-12-29,2021-04-12,,RESOLVED,2020-12-09,1,False,2
+Thiothixene Capsules,12,2018-07-27,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,8
+Valsartan Tablets,43,2018-08-03,2019-12-29,2021-08-02,,AMBIGUOUS,,0,False,39
+Ketoprofen Capsules,9,2018-08-03,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,3
+Methocarbamol Tablets,12,2018-08-17,2019-12-29,2020-11-21,,RESOLVED,2019-12-13,1,False,12
+Scopolamine Transdermal System,4,2018-08-27,2019-12-29,2023-05-14,,RESOLVED,2019-12-11,1,False,4
+Methyldopa Tablets,4,2018-08-30,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Diphenhydramine Injection,4,2018-09-14,2019-12-29,2021-08-02,,RESOLVED,2021-01-25,1,False,4
+Trifluoperazine Hydrochloride Tablets,12,2018-10-02,2019-12-29,2020-11-21,,RESOLVED,2019-12-10,1,False,12
+Diltiazem Hydrochloride ER (Twice-a-Day) Capsules,3,2018-10-18,2019-12-29,2020-11-21,,RESOLVED,2020-02-20,1,False,3
+Haloperidol Tablets,9,2018-10-19,2019-12-29,2023-05-14,,RESOLVED,2019-11-20,1,False,9
+Leucovorin Calcium Lyophilized Powder for Injection,1,2018-10-19,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Letermovir (Prevymis) Injection,2,2018-10-29,2019-12-29,2021-11-30,,RESOLVED,2021-09-14,1,False,2
+Nelarabine (Arranon) Injection,1,2018-10-30,2019-12-29,2020-11-21,,RESOLVED,2020-01-07,1,False,1
+Buspirone HCl Tablets,40,2018-11-21,2019-12-29,2020-11-21,,AMBIGUOUS,,0,False,37
+Bisoprolol Fumarate Tablets,2,2018-11-21,2019-12-29,2019-12-29,,RESOLVED,2019-06-14,1,False,2
+Cefazolin Injection,23,2018-11-30,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,22
+"Morphine Sulfate Injection, USP",3,2018-12-06,2019-12-29,2021-11-30,,DISAPPEARED,2021-11-30,0,False,0
+Morphine Sulfate Injection,1,2018-12-06,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,False,0
+Fludrocortisone Acetate Tablets,2,2018-12-12,2019-12-29,2023-05-14,,RESOLVED,2019-08-07,1,False,2
+"Cycloserine Capsules, USP",1,2018-12-20,2019-12-29,2019-12-29,,RESOLVED,2019-04-17,1,False,1
+Calcitriol Injection USP 1MCG /ML,1,2019-01-02,2019-12-29,2021-11-30,,RESOLVED,2021-10-06,1,False,1
+Timolol Maleate Tablets,3,2019-01-03,2019-12-29,2021-08-02,,RESOLVED,2021-01-21,1,False,3
+Nystatin Oral Suspension,4,2019-01-08,2019-12-29,2020-11-21,,RESOLVED,2020-05-06,1,False,4
+Hydroxyprogesterone Caproate Injection,8,2019-01-25,2019-12-29,2023-05-14,,RESOLVED,2019-08-02,1,False,8
+Fluvoxamine ER Capsules,4,2019-02-05,2019-12-29,2023-05-14,,RESOLVED,2022-12-16,1,False,4
+Dexamethasone Sodium Phosphate Injection,18,2019-02-08,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Physostigmine Salicylate Injection, USP",1,2019-02-21,2019-12-29,2023-05-14,,DISAPPEARED,2023-05-14,0,False,0
+Erythromycin Ophthalmic Ointment,7,2019-03-05,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,3
+Eprosartan Mesylate Tablets,1,2019-03-11,2019-12-29,2021-04-12,,DISAPPEARED,2021-04-12,0,False,0
+Hydroxyzine Pamoate Oral Capsules,10,2019-03-12,2019-12-29,2023-05-14,,RESOLVED,2021-02-17,1,False,10
+Olmesartan Medoxomil Tablets,24,2019-03-12,2019-12-29,2020-11-21,,RESOLVED,2020-03-05,1,False,24
+Dicyclomine Oral Tablets/Capsules,8,2019-03-13,2019-12-29,2021-08-02,,RESOLVED,2021-01-19,1,False,8
+Flurazepam Hydrochloride Capsules,4,2019-03-14,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,2
+Prednisolone Acetate 1% Ophthalmic Suspension,3,2019-03-15,2019-12-29,2023-05-14,,RESOLVED,2019-10-31,1,False,3
+Latanoprost Ophthalmic Solution 0.005%,3,2019-03-19,2019-12-29,2020-11-21,,RESOLVED,2020-04-06,1,False,3
+"Enalaprilat Injection, USP",3,2019-03-29,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Levetiracetam Immediate-Release Oral Tablets, USP",20,2019-04-01,2019-12-29,2021-11-30,,RESOLVED,2021-03-16,1,False,20
+"Metoprolol Tartrate Injection, USP",9,2019-04-02,2019-12-29,2021-08-02,,RESOLVED,2021-01-25,1,False,9
+"Carisoprodol Tablets, USP",11,2019-04-22,2019-12-29,2020-11-21,,RESOLVED,2020-05-19,1,False,11
+"Cefoxitin for Injection, USP",16,2019-05-03,2019-12-29,2023-05-14,,RESOLVED,2021-11-18,1,False,16
+Tacrolimus Capsules,30,2019-05-17,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,24
+Sildenafil Citrate (REVATIO),4,2019-05-21,2019-12-29,2023-05-14,,RESOLVED,2019-10-24,1,False,4
+"Capreomycin Injection, USP",1,2019-05-21,2019-12-29,2023-05-14,,DISAPPEARED,2023-05-14,0,False,0
+Pantoprazole Sodium Injection,7,2019-05-24,2023-11-14,2023-12-21,2023-05-14,RESOLVED,2023-09-15,1,False,7
+Pantoprazole Sodium for Injection,12,2019-05-24,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,6
+"Levetiracetam Extended-Release Oral Tablets, USP",8,2019-05-28,2019-12-29,2021-11-30,,RESOLVED,2021-03-16,1,False,8
+Amino Acids,6,2019-06-05,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,1
+"Potassium Acetate Injection, USP",3,2019-06-10,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Primaquine Phosphate Tablet, EQ 15mg Base",2,2019-07-19,2019-12-29,2020-11-21,,RESOLVED,2019-12-10,1,False,2
+Vinblastine Sulfate Injection,2,2019-07-23,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,1
+Pentamidine Isethionate (Nebupent) For Inhalation Solution,1,2019-08-02,2019-12-29,2023-05-14,,RESOLVED,2019-09-13,1,False,1
+Alogliptin Tablets,6,2019-08-14,2019-12-29,2020-11-21,,RESOLVED,2020-10-05,1,False,6
+Parathyroid Hormone (Natpara) Injection,4,2019-09-11,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+"Triamcinolone Acetonide (Triesence) Injection, Suspension",2,2019-09-12,2019-12-29,2021-08-02,,AMBIGUOUS,,0,False,1
+Difluprednate (Durezol) Ophthalmic Emulsion,1,2019-09-12,2019-12-29,2022-10-06,,RESOLVED,2019-10-15,1,False,1
+Amphetamine Aspartate; Amphetamine Sulfate; Dextroamphetamine Saccharate; Dextroamphetamine Sulfate Tablets,96,2019-09-12,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,37
+Echothiophate Iodide (Phospholine Iodide) Ophthalmic Solution,2,2019-09-24,2019-12-29,2023-12-21,,ONGOING,2023-12-21,0,False,0
+Disulfiram Tablets,3,2019-09-25,2019-12-29,2020-11-21,,RESOLVED,2020-08-24,1,False,3
+Dextrose 25% Injection,2,2019-09-27,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,1
+Dextrose 50% Injection,5,2019-09-27,2019-12-29,2023-12-21,,AMBIGUOUS,,0,False,1
+Nalbuphine Hydrochloride Injection,4,2019-10-11,2019-12-29,2023-05-14,,RESOLVED,2021-06-28,1,False,4
+"Vincristine Sulfate Injection, USP (Preservative-Free)",1,2019-10-16,2019-12-29,2020-11-21,,RESOLVED,2020-01-30,1,False,1
+Atropine Sulfate Ophthalmic Ointment,1,2019-10-18,2019-12-29,2021-11-30,,RESOLVED,2021-09-20,1,False,1
+Bacitracin Ophthalmic Ointment,1,2019-10-23,2019-12-29,2020-11-21,,RESOLVED,2020-04-29,1,False,1
+Anagrelide Hydrochloride Capsules,5,2019-10-29,2019-12-29,2023-05-14,,RESOLVED,2021-07-20,1,False,5
+Trifluridine Ophthalmic Solution,1,2019-10-29,2019-12-29,2021-08-02,,RESOLVED,2021-01-21,1,False,1
+"Oxytocin Injection, USP Synthetic",3,2019-11-06,2019-12-29,2021-11-30,,RESOLVED,2021-06-10,1,False,3
+Loxapine Capsules,12,2019-11-25,2019-12-29,2023-05-14,,AMBIGUOUS,,0,False,3
+Leuprolide Acetate (Lupron Depot; Lupron Depot Ped) Injection,7,2019-12-10,2019-12-29,2020-07-15,,RESOLVED,2020-01-09,1,False,7
+Sodium Chloride 23.4% Injection,3,2020-01-01,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Atropine Sulfate Injection,5,2020-01-01,2023-12-21,2023-12-21,2023-12-07,ONGOING,2023-12-21,0,True,0
+Ranitidine Tablets/Capsules,15,2020-01-07,2020-04-02,2021-08-02,2019-12-29,DISAPPEARED,2021-08-02,0,True,0
+Pindolol Tablets,9,2020-02-21,2020-04-02,2023-05-14,2019-12-29,RESOLVED,2022-01-11,1,True,9
+"AVYCAZ® (ceftazidime and avibactam) for Injection, 2 grams/0.5 grams",1,2020-02-26,2020-04-02,2023-05-14,2019-12-29,RESOLVED,2022-02-07,1,True,1
+Amoxapine Tablets,4,2020-03-09,2020-04-02,2023-12-21,2019-12-29,ONGOING,2023-12-21,0,True,0
+Nizatidine Capsules,4,2020-03-09,2020-04-02,2023-12-21,2019-12-29,ONGOING,2023-12-21,0,True,0
+Rifapentine Tablets,1,2020-03-25,2020-04-02,2023-12-21,2019-12-29,ONGOING,2023-12-21,0,True,0
+Hydroxychloroquine Sulfate Tablets,14,2020-03-31,2020-04-02,2021-01-17,2019-12-29,AMBIGUOUS,,0,True,13
+Chloroquine Phosphate Tablets,2,2020-03-31,2020-04-02,2020-11-21,2019-12-29,RESOLVED,2020-05-08,1,True,2
+"Hydrocortisone Tablets, USP",11,2020-04-02,2020-06-12,2023-05-14,2020-04-02,AMBIGUOUS,,0,True,8
+"Midazolam Injection, USP",22,2020-04-02,2020-04-02,2023-12-21,2019-12-29,ONGOING,2023-12-21,0,True,0
+Midazolam Injection,3,2020-04-02,2020-10-11,2023-12-21,2020-09-30,ONGOING,2023-12-21,0,True,0
+Hydrocortisone Tablets,3,2020-04-02,2020-10-11,2023-05-14,2020-09-30,RESOLVED,2022-06-08,1,True,3
+"Furosemide Injection, USP",9,2020-04-07,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Furosemide Injection,9,2020-04-07,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Cisatracurium Besylate Injection,22,2020-04-08,2020-06-12,2023-05-14,2020-04-02,RESOLVED,2021-07-27,1,True,22
+Propofol Injectable Emulsion,15,2020-04-10,2020-06-12,2023-05-14,2020-04-02,RESOLVED,2022-11-21,1,True,15
+Etomidate Injection,32,2020-04-10,2020-06-12,2023-12-21,2020-04-02,AMBIGUOUS,,0,True,11
+Dexmedetomidine Injection,29,2020-04-10,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Dexmedetomidine Hydrochloride Injection,2,2020-04-10,2021-04-12,2023-12-21,2021-03-18,ONGOING,2023-12-21,0,True,0
+Azithromycin Tablets,21,2020-04-14,2020-06-12,2021-08-02,2020-04-02,RESOLVED,2020-12-30,1,True,21
+Continuous Renal Replacement Therapy (CRRT) Solutions,9,2020-04-22,2020-06-12,2023-05-14,2020-04-02,RESOLVED,2022-09-28,1,True,9
+Sulfasalazine Tablets,7,2020-04-24,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Sulfasalazine Tablet,2,2020-04-24,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Hydroxypropyl (Lacrisert) Cellulose Ophthalmic Insert,1,2020-05-01,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Famotidine Tablets,8,2020-05-04,2020-06-12,2023-05-14,2020-04-02,RESOLVED,2021-11-10,1,True,8
+Famotidine Injection,10,2020-05-05,2020-06-12,2023-05-14,2020-04-02,RESOLVED,2021-11-10,1,True,10
+Lithium Oral Solution,1,2020-05-06,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Vecuronium Bromide for Injection,11,2020-05-06,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+Dimercaprol (Bal in Oil) Injection USP,1,2020-05-11,2020-06-12,2023-03-02,2020-04-02,RESOLVED,2021-06-29,1,True,1
+Amifostine Injection,1,2020-05-21,2020-06-12,2023-12-21,2020-04-02,ONGOING,2023-12-21,0,True,0
+"Sertraline Hydrochloride Oral Solution, USP",4,2020-05-26,2020-06-12,2023-05-14,2020-04-02,AMBIGUOUS,,0,True,3
+Sertraline Hydrochloride Tablets,24,2020-05-29,2020-06-12,2023-05-14,2020-04-02,AMBIGUOUS,,0,True,22
+Timolol Maleate Ophthalmic Solution,15,2020-05-29,2020-06-12,2023-05-14,2020-04-02,RESOLVED,2021-04-16,1,True,15
+Timolol Maleate Ophthalmic Gel Forming Solution,8,2020-05-29,2020-06-12,2021-11-30,2020-04-02,RESOLVED,2021-10-04,1,True,8
+Doxycycline Hyclate Injection,3,2020-07-10,2020-07-15,2021-08-02,2020-07-08,RESOLVED,2021-01-07,1,True,3
+Chlorothiazide (Diuril) Oral Suspension,1,2020-08-12,2020-08-15,2021-08-02,2020-07-15,RESOLVED,2020-12-28,1,True,1
+Tobramycin Lyophilized Powder for Injection,2,2020-08-24,2020-09-15,2023-05-14,2020-08-24,RESOLVED,2021-04-12,1,True,2
+Hydralazine Hydrochloride Injection,4,2020-09-08,2020-09-15,2023-05-14,2020-08-24,RESOLVED,2021-06-29,1,True,4
+Floxuridine for Injection,1,2020-09-16,2020-09-27,2023-05-14,2020-09-15,RESOLVED,2023-02-13,1,True,1
+Nefazodone Hydrochloride Tablets,5,2020-09-18,2020-09-27,2023-05-14,2020-09-15,RESOLVED,2022-06-10,1,True,5
+Cysteamine Hydrochloride Ophthalmic Solution,1,2020-10-27,2020-10-30,2023-05-14,2020-10-26,RESOLVED,2022-06-08,1,True,1
+Cyclopentolate Ophthalmic Solution,7,2020-11-09,2020-11-10,2023-12-21,2020-10-30,ONGOING,2023-12-21,0,True,0
+Cyclopentolate Hydrochloride Ophthalmic Solution,1,2020-11-09,2020-11-10,2023-12-21,2020-10-30,ONGOING,2023-12-21,0,True,0
+Acetazolamide Injection,4,2020-12-02,2021-01-17,2023-05-14,2020-11-21,RESOLVED,2022-06-17,1,True,4
+Amino Acid Injection,5,2020-12-08,2021-01-17,2023-12-21,2020-11-21,ONGOING,2023-12-21,0,True,0
+Zinc Acetate Capsules,3,2020-12-15,2021-01-17,2023-05-14,2020-11-21,AMBIGUOUS,,0,True,2
+Azacitidine for Injection,14,2020-12-18,2021-01-17,2023-12-21,2020-11-21,ONGOING,2023-12-21,0,True,0
+Teprotumumab-trbw,1,2020-12-23,2021-01-17,2023-05-14,2020-11-21,RESOLVED,2023-04-28,1,True,1
+Misoprostol Tablets,6,2020-12-28,2021-01-17,2023-05-14,2020-11-21,RESOLVED,2022-03-11,1,True,6
+Valproate Sodium Injection,3,2020-12-30,2021-01-17,2023-12-21,2020-11-21,ONGOING,2023-12-21,0,True,0
+Ceftolozane and Tazobactam (Zerbaxa) Injection,1,2021-01-04,2021-01-17,2023-05-14,2020-11-21,RESOLVED,2022-03-14,1,True,1
+Edetate Calcium Disodium Injection,2,2021-02-02,2023-01-13,2023-12-21,2022-10-06,AMBIGUOUS,,0,True,1
+Calcium Disodium Versenate Injection,1,2021-02-02,2021-03-18,2023-05-14,2021-01-17,DISAPPEARED,2023-05-14,0,True,0
+Isoniazid Injection,1,2021-02-04,2021-03-18,2023-12-21,2021-01-17,RESOLVED,2023-09-20,1,True,1
+Histreline Acetate Implant,1,2021-02-11,2021-03-18,2021-08-27,2021-01-17,DISAPPEARED,2021-08-27,0,True,0
+Trimethobenzamide Hydrochloride Capsules,3,2021-02-16,2021-03-18,2023-12-21,2021-01-17,ONGOING,2023-12-21,0,True,0
+Rifampin Injection,3,2021-02-17,2021-03-18,2023-12-21,2021-01-17,ONGOING,2023-12-21,0,True,0
+Succimer (Chemet) Capsules,1,2021-02-26,2021-03-18,2023-05-14,2021-01-17,RESOLVED,2021-09-14,1,True,1
+Desmopressin Acetate Nasal Spray,3,2021-03-12,2021-03-18,2023-12-21,2021-01-17,ONGOING,2023-12-21,0,True,0
+Desmopressin Acetate Spray,1,2021-03-12,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Disopyramide Phosphate (Norpace) Capsules,8,2021-03-19,2021-04-12,2023-12-21,2021-03-18,ONGOING,2023-12-21,0,True,0
+Calcium Gluconate Injection,7,2021-03-24,2021-08-02,2023-12-21,2021-05-21,RESOLVED,2023-09-07,1,True,7
+Cortisone Acetate Tablets,1,2021-03-26,2021-04-12,2023-05-14,2021-03-18,DISAPPEARED,2023-05-14,0,True,0
+Chlordiazepoxide Hydrochloride Capsules,9,2021-03-30,2021-04-12,2023-05-14,2021-03-18,RESOLVED,2022-10-25,1,True,9
+Hydroxocobalamin Injection,2,2021-04-20,2021-05-12,2023-05-14,2021-04-12,RESOLVED,2022-01-21,1,True,2
+Protamine Sulfate Injection,1,2021-04-20,2021-05-12,2023-05-14,2021-04-12,RESOLVED,2022-10-14,1,True,1
+Triamcinolone Hexacetonide Injectable suspension,1,2021-05-04,2021-05-12,2023-12-21,2021-04-12,ONGOING,2023-12-21,0,True,0
+Chloroprocaine Hydrochloride Injection,7,2021-05-17,2021-05-21,2023-12-21,2021-05-12,ONGOING,2023-12-21,0,True,0
+Methohexital Sodium (Brevital) Injection,1,2021-05-21,2021-05-21,2023-05-14,2021-05-12,RESOLVED,2021-11-15,1,True,1
+Digoxin Injection,7,2021-06-04,2021-08-02,2023-12-21,2021-05-21,ONGOING,2023-12-21,0,True,0
+Varenicline Tartrate (Chantix) Tablets,9,2021-06-24,2021-08-02,2023-05-14,2021-05-21,RESOLVED,2022-05-26,1,True,9
+Crisantaspase (Erwinase),1,2021-06-25,2021-08-02,2021-08-27,2021-05-21,DISAPPEARED,2021-08-27,0,True,0
+Mepivacaine Hydrochloride Injection,9,2021-07-14,2021-08-02,2023-12-21,2021-05-21,ONGOING,2023-12-21,0,True,0
+Gentamicin Sulfate Injection,9,2021-07-23,2021-08-02,2023-12-21,2021-05-21,ONGOING,2023-12-21,0,True,0
+Tocilizumab Injection,3,2021-08-17,2021-08-27,2023-05-14,2021-08-02,RESOLVED,2022-03-30,1,True,3
+Sodium Phosphates Injection,3,2021-09-01,2021-10-06,2023-12-21,2021-08-27,ONGOING,2023-12-21,0,True,0
+"Sodium Phosphate, Dibasic, Anhydrous, Sodium Phosphate, Monobasic, Monohydrate Injection",2,2021-09-01,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Mannitol Injection,7,2021-09-23,2021-10-06,2023-12-21,2021-08-27,ONGOING,2023-12-21,0,True,0
+Cytarabine Injection,9,2021-09-24,2021-10-06,2023-12-21,2021-08-27,ONGOING,2023-12-21,0,True,0
+Triamcinolone Acetonide Injectable Suspension,1,2021-09-27,2021-10-06,2023-12-21,2021-08-27,ONGOING,2023-12-21,0,True,0
+Paclitaxel Injection (protein-bound particles),4,2021-10-05,2021-10-06,2023-05-14,2021-08-27,AMBIGUOUS,,0,True,3
+Technetium Tc 99m Sulfur Colloid Injection,1,2021-10-08,2021-10-20,2023-05-14,2021-10-06,RESOLVED,2022-04-29,1,True,1
+Dacarbazine Injection,4,2021-10-20,2021-11-30,2023-12-21,2021-10-20,ONGOING,2023-12-21,0,True,0
+Vitamin A Palmitate (Aquasol A) Injection,2,2021-10-21,2021-11-30,2023-05-14,2021-10-20,AMBIGUOUS,,0,True,1
+IV Fat Emulsion,7,2021-10-25,2021-11-30,2023-12-21,2021-10-20,ONGOING,2023-12-21,0,True,0
+I.V. Fat Emulsion,1,2021-10-25,2021-11-30,2023-12-21,2021-10-20,ONGOING,2023-12-21,0,True,0
+Potassium Chloride Concentrate Injection,16,2021-11-02,2021-11-30,2023-12-21,2021-10-20,ONGOING,2023-12-21,0,True,0
+Sterile Water for Injection,8,2021-11-23,2021-11-30,2023-12-21,2021-10-20,ONGOING,2023-12-21,0,True,0
+"Amphetamine Oral Suspension, Extended Release",1,2021-11-30,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-08-26,1,True,1
+Bacteriostatic Water for Injection,1,2021-12-03,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Bacteriostatic 0.9% Sodium Chloride Injection,2,2021-12-08,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Sodium Chloride 0.9% Injection Bags,13,2021-12-10,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Sodium Chloride 0.9% Injection,7,2021-12-10,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Methylprednisolone Acetate Injection,22,2021-12-15,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Rifampin Capsules,6,2021-12-22,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Metronidazole Injection,6,2022-01-13,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Cefixime Oral Capsules,2,2022-01-21,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Dextrose 5% Injection,14,2022-02-14,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Dextrose Monohydrate Injection,4,2022-02-14,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Diflunisal Tablets,2,2022-02-25,2022-10-04,2023-12-21,2021-11-30,RESOLVED,2023-08-04,1,True,2
+Dextrose 10% Injection,5,2022-03-01,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Conivaptan Hydrochloride (Vaprisol) in 5% Dextrose Plastic Container,1,2022-03-14,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Pentostatin Injection,1,2022-03-22,2022-10-04,2023-05-14,2021-11-30,DISAPPEARED,2023-05-14,0,True,0
+Technetium TC-99M Mebrofenin Injection,2,2022-03-30,2022-10-04,2023-12-21,2021-11-30,RESOLVED,2023-08-10,1,True,2
+Semaglutide (WEGOVY®) Injection,5,2022-03-31,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Sodium Chloride 14.6% Injection,2,2022-04-05,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Ibutilide Fumarate Injection,2,2022-04-29,2022-10-04,2023-12-21,2021-11-30,RESOLVED,2023-09-14,1,True,2
+Sufentanil Citrate Injection,2,2022-05-03,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Fludarabine Phosphate Injection,6,2022-05-06,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Iohexol Injection,7,2022-05-09,2022-10-04,2023-05-14,2021-11-30,AMBIGUOUS,,0,True,5
+Iodixanol Injection,4,2022-05-09,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-10-12,1,True,4
+Lutetium Lu 177 Dotatate (LUTATHERA) Injection,1,2022-05-12,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-08-01,1,True,1
+Iopromide (Ultravist) Injection,2,2022-05-26,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-10-31,1,True,2
+Diazepam Rectal Gel,6,2022-06-15,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Remifentanil Injection,7,2022-06-28,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Remifentanil Hydrochloride Injection,2,2022-06-28,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+Erythromycin Ointment,1,2022-07-06,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Streptozocin (Zanosar) Sterile Powder,2,2022-07-12,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Vandetanib Tablets,2,2022-07-13,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-10-27,1,True,2
+Iomeprol injection,5,2022-07-14,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-12-27,1,True,5
+Iomeprol Injection,2,2022-07-14,2022-10-04,2023-05-14,2021-11-30,RESOLVED,2022-12-27,1,True,2
+"Atropa Belladonna, Opium Suppository",1,2022-08-03,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Semaglutide (Ozempic) Injection,3,2022-08-23,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Semaglutide Injection,2,2022-08-23,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Indigotindisulfonate Sodium Injection,2,2022-08-23,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+"Conjugated Estrogens/Bazedoxifene (DUAVEE) Tablet, Film Coated",2,2022-09-21,2022-10-04,2023-12-21,2021-11-30,ONGOING,2023-12-21,0,True,0
+Oxytocin Injection,4,2022-09-23,2022-10-04,2023-12-21,2021-11-30,AMBIGUOUS,,0,True,3
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",30,2022-10-12,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Alprostadil (Muse) Suppository,3,2022-10-18,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Verteporfin (Visudyne) Injection,1,2022-10-18,2023-01-13,2023-05-14,2022-10-06,RESOLVED,2023-02-09,1,True,1
+"Albuterol Sulfate Inhalation Solution, 0.5%",2,2022-10-25,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+"Amoxicillin Powder, For Suspension",15,2022-10-28,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Neomycin Sulfate Tablets,2,2022-11-16,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Technetium TC-99m Sodium Pertechnetate Generator,3,2022-11-17,2023-01-13,2023-05-14,2022-10-06,RESOLVED,2023-01-18,1,True,3
+Collagenase Ointment,1,2022-11-21,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Oxybutynin Chloride Syrup,2,2022-12-13,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Dulaglutide (Trulicity) Injection,4,2022-12-15,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Tirzepatide Injection,6,2022-12-15,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Chlorothiazide Oral Suspension,1,2022-12-20,2023-01-13,2023-12-21,2022-10-06,RESOLVED,2023-09-13,1,True,1
+Difluprednate Ophthalmic Emulsion,4,2022-12-21,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Difluprednate Emulsion,1,2022-12-21,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+Sucralfate Tablets,5,2023-01-04,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Somatropin Injection,23,2023-01-06,2023-01-13,2023-12-21,2022-10-06,ONGOING,2023-12-21,0,True,0
+Quinapril and Hydrochlorothiazide Tablets,6,2023-01-19,2023-01-27,2023-12-21,2023-01-13,ONGOING,2023-12-21,0,True,0
+Quinapril Hydrochloride Tablets,15,2023-01-19,2023-01-27,2023-12-21,2023-01-13,ONGOING,2023-12-21,0,True,0
+Capecitabine Tablets,10,2023-02-09,2023-03-02,2023-12-21,2023-01-27,ONGOING,2023-12-21,0,True,0
+Capecitabine Tablet,1,2023-02-09,2023-03-02,2023-12-21,2023-01-27,ONGOING,2023-12-21,0,True,0
+Cisplatin Injection,11,2023-02-10,2023-03-02,2023-12-21,2023-01-27,ONGOING,2023-12-21,0,True,0
+Palifermin (Kepivance) Lyophilized Powder for Injection,1,2023-02-10,2023-03-02,2023-12-21,2023-01-27,RESOLVED,2023-10-18,1,True,1
+Rocuronium Bromide Injection,19,2023-02-15,2023-03-02,2023-12-21,2023-01-27,ONGOING,2023-12-21,0,True,0
+Dimercaprol (Bal in Oil) Injection,1,2023-03-03,2023-03-25,2023-05-14,2023-03-02,DISAPPEARED,2023-05-14,0,True,0
+Lutetium Lu 177 Vipivotide Tetraxetan (Pluvicto) Injection,1,2023-03-07,2023-03-25,2023-12-21,2023-03-02,RESOLVED,2023-10-25,1,True,1
+Clonazepam Tablet,15,2023-03-10,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Methotrexate Injection,11,2023-03-13,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Methamphetamine Hydrochloride Tablet,3,2023-03-17,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Clindamycin Phosphate Injection,19,2023-03-21,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Hydrocortisone Sodium Succinate Injection,5,2023-03-24,2023-03-25,2023-12-21,2023-03-02,ONGOING,2023-12-21,0,True,0
+Chloramphenicol Sodium Succinate Injection,1,2023-04-05,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+Fluorescein Sodium Injection,5,2023-04-21,2023-05-14,2023-12-21,2023-03-28,RESOLVED,2023-12-05,1,True,5
+Penicillin G Benzathine Injection,3,2023-04-26,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+Sterile Water Irrigant,4,2023-04-28,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+Sodium Chloride 0.9% Irrigation,5,2023-04-28,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+0.9% Sodium Chloride Irrigation,2,2023-04-28,2023-05-14,2023-05-14,2023-03-28,DISAPPEARED,2023-05-14,0,True,0
+Sterile Water for Irrigation,2,2023-04-28,2023-05-14,2023-05-14,2023-03-28,DISAPPEARED,2023-05-14,0,True,0
+Carboplatin Injection,19,2023-04-28,2023-05-14,2023-12-21,2023-03-28,ONGOING,2023-12-21,0,True,0
+Isoniazid Tablet,2,2023-05-17,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Lidocaine Hydrochloride Solution,3,2023-05-18,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+"Rivaroxaban Granule, For Suspension",1,2023-06-12,2023-11-14,2023-12-21,2023-05-14,RESOLVED,2023-07-12,1,True,1
+Lisdexamfetamine Dimesylate Capsule,60,2023-07-14,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+"Lisdexamfetamine Dimesylate Tablet, Chewable",12,2023-07-14,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Liraglutide Injection,1,2023-07-18,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Methotrexate Sodium Tablet,14,2023-07-21,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+"Methylphenidate Hydrochloride Tablet, Extended Release",32,2023-07-26,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Multi-Vitamin Infusion (Adult and Pediatric) Injection,7,2023-09-15,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Nitroglycerin Injection,3,2023-10-06,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Nitroglycerin Injectable,1,2023-10-06,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Propranolol Hydrochloride Injection,2,2023-10-31,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Cromolyn Sodium Concentrate,5,2023-11-03,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Diazepam Gel,2,2023-11-06,2023-11-14,2023-12-21,2023-05-14,ONGOING,2023-12-21,0,True,0
+Promethazine Hydrochloride Injection,10,2023-11-21,2023-12-07,2023-12-21,2023-11-14,ONGOING,2023-12-21,0,True,0
+Flurazepam Hydrochloride Capsule,2,2023-11-21,2023-12-07,2023-12-21,2023-11-14,ONGOING,2023-12-21,0,True,0
+Fentanyl Citrate Injection,8,2023-12-20,2023-12-21,2023-12-21,2023-12-07,ONGOING,2023-12-21,0,True,0

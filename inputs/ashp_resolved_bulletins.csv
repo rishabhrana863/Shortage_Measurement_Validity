@@ -1,0 +1,959 @@
+ashp_id,generic_name,revision_date,created_date,created,revised,duration_days
+1127,3% and 5% Sodium Chloride Large Volume Injection,"Jul 22, 2025","Jan 24, 2025",2025-01-24,2025-07-22,179
+6,0.45% Sodium Chloride Injection Bags,"May 26, 2016","May 06, 2015",2015-05-06,2016-05-26,386
+1100,0.45% Sodium Chloride Injection Bags,"Jul 22, 2025","Oct 07, 2024",2024-10-07,2025-07-22,288
+332,"0.9% Sodium Chloride 10 mL, 20 mL, and 50 mL Preservative Free Vials and Syringes","Aug 19, 2019","Jun 12, 2017",2017-06-12,2019-08-19,798
+764,"0.9% Sodium Chloride 10 mL, 20 mL, and 50 mL Preservative Free Vials and Syringes","Sep 08, 2023","Oct 06, 2021",2021-10-06,2023-09-08,702
+802,0.9% Sodium Chloride Flush Syringes,"Aug 23, 2023","Feb 08, 2022",2022-02-08,2023-08-23,561
+182,0.9% Sodium Chloride Irrigation,"May 26, 2016","Sep 17, 2015",2015-09-17,2016-05-26,252
+76,0.9% Sodium Chloride Large Volume Bags,"Jun 26, 2019","Jun 18, 2015",2015-06-18,2019-06-26,1469
+806,0.9% Sodium Chloride Large Volume Bags,"Jul 10, 2024","Feb 22, 2022",2022-02-22,2024-07-10,869
+1094,0.9% Sodium Chloride Large Volume Bags,"Aug 06, 2025","Oct 04, 2024",2024-10-04,2025-08-06,306
+352,0.9% Sodium Chloride Small Volume Bags (< 150 mL),"Aug 16, 2023","Sep 29, 2017",2017-09-29,2023-08-16,2147
+1108,0.9% Sodium Chloride Small Volume Bags (< 150 mL),"Dec 29, 2025","Oct 23, 2024",2024-10-23,2025-12-29,432
+805,10% Dextrose Injection,"Apr 04, 2023","Feb 18, 2022",2022-02-18,2023-04-04,410
+1095,10% Dextrose Injection,"Jul 29, 2025","Oct 04, 2024",2024-10-04,2025-07-29,298
+120,14.6% Sodium Chloride Concentrated Solution for Injection,"Aug 18, 2016","Jul 14, 2015",2015-07-14,2016-08-18,401
+416,14.6% Sodium Chloride Concentrated Solution for Injection,"Apr 08, 2021","Apr 19, 2018",2018-04-19,2021-04-08,1085
+818,14.6% Sodium Chloride Concentrated Solution for Injection,"Feb 12, 2024","Mar 17, 2022",2022-03-17,2024-02-12,697
+400,2% Lidocaine Hydrochloride Topical Jelly,"May 21, 2019","Feb 22, 2018",2018-02-22,2019-05-21,453
+841,2% Lidocaine Hydrochloride Topical Jelly,"Sep 26, 2023","Jun 10, 2022",2022-06-10,2023-09-26,473
+119,23.4% Sodium Chloride Concentrated Solution for Injection,"Jan 13, 2017","Jul 14, 2015",2015-07-14,2017-01-13,549
+336,23.4% Sodium Chloride Injection,"Sep 22, 2024","Jul 10, 2017",2017-07-10,2024-09-22,2631
+1110,23.4% Sodium Chloride Injection,"May 18, 2025","Oct 26, 2024",2024-10-26,2025-05-18,204
+163,25% Dextrose Injection,"Jan 24, 2017","Sep 04, 2015",2015-09-04,2017-01-24,508
+322,25% Dextrose Injection,"May 10, 2018","May 18, 2017",2017-05-18,2018-05-10,357
+483,25% Dextrose Injection,"Oct 18, 2020","Oct 19, 2018",2018-10-19,2020-10-18,730
+768,25% Dextrose Injection,"Dec 04, 2024","Oct 18, 2021",2021-10-18,2024-12-04,1143
+1211,25% Dextrose Injection,"Aug 25, 2026","Mar 11, 2026",2026-03-11,2026-08-25,167
+415,3% and 5% Sodium Chloride Large Volume Injection,"Dec 12, 2022","Apr 19, 2018",2018-04-19,2022-12-12,1698
+303,5% Dextrose Injection,"Mar 20, 2019","Mar 21, 2017",2017-03-21,2019-03-20,729
+314,5% Dextrose Injection (PVC-free and DEHP-free),"Dec 18, 2020","May 04, 2017",2017-05-04,2020-12-18,1324
+800,5% Dextrose Injection (PVC-free and DEHP-free),"May 07, 2024","Feb 04, 2022",2022-02-04,2024-05-07,823
+1097,5% Dextrose Injection (PVC-free and DEHP-free),"Oct 15, 2025","Oct 04, 2024",2024-10-04,2025-10-15,376
+123,5% Dextrose Injection Large Volume Bags,"Jul 26, 2016","Jul 22, 2015",2015-07-22,2016-07-26,370
+799,5% Dextrose Injection Large Volume Bags,"Aug 30, 2022","Feb 04, 2022",2022-02-04,2022-08-30,207
+1096,5% Dextrose Injection Large Volume Bags,"Jun 10, 2025","Oct 04, 2024",2024-10-04,2025-06-10,249
+52,50% Dextrose Injection,"Nov 07, 2016","Jun 10, 2015",2015-06-10,2016-11-07,516
+306,50% Dextrose Injection,"Apr 08, 2021","Apr 20, 2017",2017-04-20,2021-04-08,1449
+783,50% Dextrose Injection,"Nov 17, 2025","Dec 12, 2021",2021-12-12,2025-11-17,1436
+135,70% Dextrose Injection Large Volume Bags,"Nov 09, 2016","Aug 04, 2015",2015-08-04,2016-11-09,463
+301,70% Dextrose Injection Large Volume Bags,"Sep 29, 2017","Mar 09, 2017",2017-03-09,2017-09-29,204
+852,70% Dextrose Injection Large Volume Bags,"Jul 29, 2025","Jul 13, 2022",2022-07-13,2025-07-29,1112
+112,Acamprosate Calcium Tablets,"May 26, 2016","Jul 09, 2015",2015-07-09,2016-05-26,322
+1091,Acamprosate Calcium Tablets,"May 19, 2026","Sep 30, 2024",2024-09-30,2026-05-19,596
+79,Acetaminophen and Codeine Phosphate 300 mg/30 mg Tablets,"May 26, 2016","Jun 18, 2015",2015-06-18,2016-05-26,343
+1141,Acetaminophen Injection,"Jul 30, 2026","Mar 12, 2025",2025-03-12,2026-07-30,505
+866,Acetaminophen Suppositories,"Apr 05, 2023","Sep 01, 2022",2022-09-01,2023-04-05,216
+93,Acetazolamide Injection,"Jun 08, 2017","Jun 25, 2015",2015-06-25,2017-06-08,714
+528,Acetazolamide Injection,"Jun 02, 2021","Feb 11, 2019",2019-02-11,2021-06-02,842
+877,Acetazolamide Injection,"Feb 13, 2024","Oct 19, 2022",2022-10-19,2024-02-13,482
+231,Acetylcholine Chloride Powder for Intraocular Solution,"May 17, 2016","Mar 24, 2016",2016-03-24,2016-05-17,54
+942,Acetylcholine Chloride Powder for Intraocular Solution,"May 22, 2023","Apr 28, 2023",2023-04-28,2023-05-22,24
+967,Acetylcholine Chloride Powder for Intraocular Solution,"Jul 26, 2024","Jul 07, 2023",2023-07-07,2024-07-26,385
+43,Acetylcysteine Oral and Inhalation Solution,"Sep 05, 2025","Jun 08, 2015",2015-06-08,2025-09-05,3742
+874,Activated Charcoal Oral Suspension,"May 18, 2023","Oct 14, 2022",2022-10-14,2023-05-18,216
+590,Acyclovir Injection,"Jul 20, 2021","Sep 04, 2019",2019-09-04,2021-07-20,685
+788,Acyclovir Injection,"May 31, 2022","Dec 29, 2021",2021-12-29,2022-05-31,153
+1038,Acyclovir Injection,"Nov 27, 2024","Feb 21, 2024",2024-02-21,2024-11-27,280
+95,Adenosine Injection,"May 26, 2016","Jun 25, 2015",2015-06-25,2016-05-26,336
+933,Adenosine Injection,"Aug 10, 2026","Apr 03, 2023",2023-04-03,2026-08-10,1225
+321,Albendazole Tablets,"Sep 20, 2017","May 16, 2017",2017-05-16,2017-09-20,127
+870,Albumin (Human) Injection,"Sep 06, 2023","Sep 23, 2022",2022-09-23,2023-09-06,348
+295,Albuterol Inhalation Solution,"Jun 20, 2017","Feb 23, 2017",2017-02-23,2017-06-20,117
+470,Albuterol Inhalation Solution,"Oct 04, 2019","Sep 17, 2018",2018-09-17,2019-10-04,382
+820,Albuterol Inhalation Solution,"Feb 27, 2024","Mar 29, 2022",2022-03-29,2024-02-27,700
+902,Albuterol sulfate and Ipratropium Bromide Inhalation Solution,"Jan 14, 2026","Jan 09, 2023",2023-01-09,2026-01-14,1101
+199,Albuterol Sulfate Metered Dose Inhalers,"May 17, 2016","Dec 03, 2015",2015-12-03,2016-05-17,166
+647,Albuterol Sulfate Metered Dose Inhalers,"Dec 15, 2021","Mar 23, 2020",2020-03-23,2021-12-15,632
+53,ALCOHOL DEHYDRATED INJECTION (ETHANOL),"May 26, 2016","Jun 10, 2015",2015-06-10,2016-05-26,351
+274,Alcohol Dehydrated Injection (Ethanol),"Jun 24, 2019","Nov 16, 2016",2016-11-16,2019-06-24,950
+639,Alcohol Dehydrated Injection (Ethanol),"Dec 08, 2020","Mar 09, 2020",2020-03-09,2020-12-08,274
+976,Alfuzosin Extended-Release Tablets,"May 22, 2024","Aug 07, 2023",2023-08-07,2024-05-22,289
+452,Alpha-1 Proteinase Inhibitor,"May 08, 2019","Aug 15, 2018",2018-08-15,2019-05-08,266
+605,Alprostadil Urethral Suppositories,"Jun 14, 2021","Oct 21, 2019",2019-10-21,2021-06-14,602
+771,Alteplase Injection,"Nov 22, 2024","Nov 05, 2021",2021-11-05,2024-11-22,1113
+772,Alteplase Injection,"Jan 11, 2022","Nov 05, 2021",2021-11-05,2022-01-11,67
+1118,Alteplase Injection,"Oct 27, 2025","Nov 22, 2024",2024-11-22,2025-10-27,339
+1065,Alteplase Injection (Cathflo Activase),"Nov 22, 2024","Jun 21, 2024",2024-06-21,2024-11-22,154
+1058,Ambrisentan Tablets,"Dec 05, 2024","May 07, 2024",2024-05-07,2024-12-05,212
+275,Amifostine Injection,"Dec 01, 2016","Nov 29, 2016",2016-11-29,2016-12-01,2
+151,Amikacin Injection,"Apr 03, 2017","Aug 26, 2015",2015-08-26,2017-04-03,586
+40,Amino Acid Products,"May 17, 2016","Jun 03, 2015",2015-06-03,2016-05-17,349
+297,Amino Acid Products,"Apr 11, 2019","Mar 03, 2017",2017-03-03,2019-04-11,769
+354,Amino Acid Products with Electrolytes and Calcium,"Nov 14, 2018","Oct 14, 2017",2017-10-14,2018-11-14,396
+355,Amino Acids in Dextrose,"Nov 14, 2018","Oct 14, 2017",2017-10-14,2018-11-14,396
+215,Aminocaproic Acid Injection,"Jun 30, 2016","Jan 27, 2016",2016-01-27,2016-06-30,155
+346,Aminocaproic Acid Injection,"Nov 06, 2018","Sep 18, 2017",2017-09-18,2018-11-06,414
+629,Aminocaproic Acid Injection,"Aug 03, 2020","Jan 24, 2020",2020-01-24,2020-08-03,192
+837,Aminocaproic Acid Injection,"Apr 07, 2024","May 27, 2022",2022-05-27,2024-04-07,681
+1144,Aminocaproic Acid Injection,"Dec 02, 2025","Mar 19, 2025",2025-03-19,2025-12-02,258
+156,Aminocaproic Acid Oral Presentations,"Feb 01, 2024","Aug 28, 2015",2015-08-28,2024-02-01,3079
+1154,Aminolevulinic Acid Powder for Oral Solution,"Jun 04, 2025","May 01, 2025",2025-05-01,2025-06-04,34
+407,Aminophylline Injection,"Jun 22, 2020","Mar 27, 2018",2018-03-27,2020-06-22,818
+767,Aminophylline Injection,"Mar 08, 2025","Oct 12, 2021",2021-10-12,2025-03-08,1243
+604,Amobarbital Sodium Injection,"Feb 01, 2021","Oct 18, 2019",2019-10-18,2021-02-01,472
+366,Amoxapine Tablets,"Nov 14, 2023","Dec 15, 2017",2017-12-15,2023-11-14,2160
+1052,Amoxapine Tablets,"Apr 17, 2024","Apr 01, 2024",2024-04-01,2024-04-17,16
+1078,Amoxapine Tablets,"Apr 09, 2025","Aug 20, 2024",2024-08-20,2025-04-09,232
+111,Amoxicillin 875 mg Tablets,"May 26, 2016","Jul 09, 2015",2015-07-09,2016-05-26,322
+279,Amoxicillin and Clavulanate 1000 mg/62.5 mg Extended-Release Tablets,"Aug 01, 2018","Dec 09, 2016",2016-12-09,2018-08-01,600
+535,"Amphetamine Mixed Salts, Immediate-Release Tablets","Mar 10, 2022","Feb 20, 2019",2019-02-20,2022-03-10,1114
+524,Amphotericin B Injection,"May 28, 2019","Jan 24, 2019",2019-01-24,2019-05-28,124
+685,Amphotericin B Injection,"Apr 22, 2021","Oct 06, 2020",2020-10-06,2021-04-22,198
+774,Amphotericin B Injection,"Aug 05, 2022","Nov 09, 2021",2021-11-09,2022-08-05,269
+885,Amphotericin B Injection,"Jul 06, 2024","Nov 10, 2022",2022-11-10,2024-07-06,604
+220,Ampicillin Injection,"Mar 24, 2017","Feb 03, 2016",2016-02-03,2017-03-24,415
+998,Ampicillin Injection,"Feb 24, 2025","Oct 19, 2023",2023-10-19,2025-02-24,494
+159,Ampicillin Sodium and Sulbactam Sodium Injection,"Mar 24, 2023","Aug 31, 2015",2015-08-31,2023-03-24,2762
+505,Amyl Nitrite Inhalation,"Sep 22, 2022","Dec 21, 2018",2018-12-21,2022-09-22,1371
+209,Anagrelide Hydrochloride Capsules,"Aug 04, 2016","Jan 06, 2016",2016-01-06,2016-08-04,211
+610,Anagrelide Hydrochloride Capsules,"Apr 30, 2021","Nov 14, 2019",2019-11-14,2021-04-30,533
+856,Anticoagulant Citrate Dextrose Formula A (ACD-A),"Jul 27, 2022","Jul 19, 2022",2022-07-19,2022-07-27,8
+1120,Anticoagulant Citrate Dextrose Formula A (ACD-A),"May 13, 2025","Dec 11, 2024",2024-12-11,2025-05-13,153
+104,Aprepitant Capsules,"May 26, 2016","Jul 01, 2015",2015-07-01,2016-05-26,330
+1136,Aprepitant Oral Suspension,"Apr 11, 2025","Feb 28, 2025",2025-02-28,2025-04-11,42
+494,Argatroban Injection,"Mar 21, 2024","Nov 20, 2018",2018-11-20,2024-03-21,1948
+1192,Arginine Hydrochloride Injection,"Apr 02, 2026","Dec 02, 2025",2025-12-02,2026-04-02,121
+170,Aripiprazole Oral Disintegrating Tablets,"May 17, 2016","Sep 09, 2015",2015-09-09,2016-05-17,251
+758,Artesunate Injection,"Nov 05, 2021","Sep 14, 2021",2021-09-14,2021-11-05,52
+531,Ascorbic Acid Injection,"Jun 05, 2019","Feb 15, 2019",2019-02-15,2019-06-05,110
+1182,Ascorbic Acid Injection,"May 26, 2026","Oct 16, 2025",2025-10-16,2026-05-26,222
+266,Asparaginase Erwinia chrysanthemi,"Jun 20, 2018","Oct 11, 2016",2016-10-11,2018-06-20,617
+482,Asparaginase Erwinia chrysanthemi,"Jun 11, 2024","Oct 11, 2018",2018-10-11,2024-06-11,2070
+568,Aspirin Suppositories,"Oct 14, 2020","Jun 04, 2019",2019-06-04,2020-10-14,498
+817,Aspirin Suppositories,"Aug 18, 2022","Mar 17, 2022",2022-03-17,2022-08-18,154
+449,Atenolol and Chlorthalidone Tablets,"Dec 13, 2018","Aug 01, 2018",2018-08-01,2018-12-13,134
+334,Atenolol tablets,"Sep 11, 2018","Jul 03, 2017",2017-07-03,2018-09-11,435
+127,Atorvastatin Tablets,"May 26, 2016","Jul 23, 2015",2015-07-23,2016-05-26,308
+85,Atracurium Injection,"May 26, 2016","Jun 22, 2015",2015-06-22,2016-05-26,339
+766,Atracurium Injection,"Aug 11, 2022","Oct 07, 2021",2021-10-07,2022-08-11,308
+429,Atropine Ophthalmic Solution,"Aug 27, 2018","May 24, 2018",2018-05-24,2018-08-27,95
+514,Atropine Ophthalmic Solution,"Aug 06, 2020","Jan 09, 2019",2019-01-09,2020-08-06,575
+46,Atropine Sulfate Injection,"Aug 18, 2025","Jun 08, 2015",2015-06-08,2025-08-18,3724
+602,Atropine Sulfate Ophthalmic Ointment,"Apr 16, 2021","Oct 11, 2019",2019-10-11,2021-04-16,553
+28,Atropine Sulfate Ophthalmic Solution,"Apr 25, 2017","Jun 01, 2015",2015-06-01,2017-04-25,694
+249,Avibactam/Ceftazidime Injection,"Jan 24, 2017","Jul 28, 2016",2016-07-28,2017-01-24,180
+636,Avibactam/Ceftazidime Injection,"Jul 20, 2021","Feb 21, 2020",2020-02-21,2021-07-20,515
+693,Azacitidine Injection,"May 18, 2023","Nov 02, 2020",2020-11-02,2023-05-18,927
+1092,Azathioprine Sodium Injection,"Aug 22, 2025","Sep 30, 2024",2024-09-30,2025-08-22,326
+58,Azathioprine Tablets,"May 26, 2016","Jun 11, 2015",2015-06-11,2016-05-26,350
+24,Azithromycin Injection,"May 26, 2016","Jun 01, 2015",2015-06-01,2016-05-26,360
+380,Azithromycin Injection,"Jun 01, 2021","Jan 14, 2018",2018-01-14,2021-06-01,1234
+891,Azithromycin Injection,"Jul 05, 2023","Dec 02, 2022",2022-12-02,2023-07-05,215
+582,Bacitracin Ophthalmic Ointment,"Jan 20, 2023","Jul 26, 2019",2019-07-26,2023-01-20,1274
+441,Bacteriostatic 0.9% Sodium Chloride Vials,"Jun 18, 2019","Jul 11, 2018",2018-07-11,2019-06-18,342
+777,Bacteriostatic 0.9% Sodium Chloride Vials,"May 18, 2025","Nov 16, 2021",2021-11-16,2025-05-18,1279
+778,Bacteriostatic Water for Injection,"Mar 06, 2023","Nov 16, 2021",2021-11-16,2023-03-06,475
+1074,Basiliximab Injection,"Apr 28, 2025","Jul 23, 2024",2024-07-23,2025-04-28,279
+74,BCG Live Intravesical,"Nov 18, 2016","Jun 17, 2015",2015-06-17,2016-11-18,520
+741,Becaplermin Topical Gel,"Jun 01, 2022","Jul 07, 2021",2021-07-07,2022-06-01,329
+299,Belatacept Injection,"Jan 09, 2019","Mar 07, 2017",2017-03-07,2019-01-09,673
+1015,Belimumab Injection,"Jul 09, 2024","Dec 14, 2023",2023-12-14,2024-07-09,208
+425,Belladonna and Opium Suppositories,"Feb 22, 2019","May 11, 2018",2018-05-11,2019-02-22,287
+740,Belladonna and Opium Suppositories,"Jan 31, 2022","Jun 30, 2021",2021-06-30,2022-01-31,215
+848,Belladonna and Opium Suppositories,"Jul 12, 2024","Jul 05, 2022",2022-07-05,2024-07-12,738
+397,Bendamustine Hydrochloride Injection,"Mar 19, 2018","Feb 15, 2018",2018-02-15,2018-03-19,32
+735,Benzoin Tincture,"Nov 23, 2021","May 21, 2021",2021-05-21,2021-11-23,186
+80,Benzonatate Capsules,"May 17, 2016","Jun 18, 2015",2015-06-18,2016-05-17,334
+49,Benztropine Mesylate Injection,"Dec 22, 2016","Jun 09, 2015",2015-06-09,2016-12-22,562
+497,Benztropine Mesylate Injection,"Apr 09, 2021","Nov 30, 2018",2018-11-30,2021-04-09,861
+633,Benzylpenicilloyl Polylysine,"May 20, 2020","Feb 10, 2020",2020-02-10,2020-05-20,100
+485,Betamethasone Acetate/Betamethasone Sodium Phosphate Suspension for Injection,"Nov 18, 2019","Oct 25, 2018",2018-10-25,2019-11-18,389
+684,Betamethasone Acetate/Betamethasone Sodium Phosphate Suspension for Injection,"Apr 27, 2023","Oct 01, 2020",2020-10-01,2023-04-27,938
+989,Betamethasone Acetate/Betamethasone Sodium Phosphate Suspension for Injection,"Oct 21, 2024","Sep 12, 2023",2023-09-12,2024-10-21,405
+995,Betaxolol Tablets,"Feb 21, 2024","Oct 03, 2023",2023-10-03,2024-02-21,141
+1083,Bevacizumab-bvzr Injection,"Feb 06, 2025","Sep 04, 2024",2024-09-04,2025-02-06,155
+565,Bisacodyl Suppositories,"Feb 28, 2020","May 16, 2019",2019-05-16,2020-02-28,288
+512,Bisoprolol Fumarate Tablets,"Oct 30, 2019","Jan 08, 2019",2019-01-08,2019-10-30,295
+569,Bivalirudin Injection,"Jun 19, 2020","Jun 04, 2019",2019-06-04,2020-06-19,381
+233,Bleomycin Sulfate Injection,"Aug 29, 2017","Apr 13, 2016",2016-04-13,2017-08-29,503
+946,Bleomycin Sulfate Injection,"Jul 06, 2024","May 08, 2023",2023-05-08,2024-07-06,425
+307,Bumetanide Injection,"Jan 24, 2021","Apr 20, 2017",2017-04-20,2021-01-24,1375
+726,Bumetanide Injection,"Mar 08, 2025","Apr 23, 2021",2021-04-23,2025-03-08,1415
+419,Buprenorphine Hydrochloride Injection,"Dec 14, 2020","Apr 27, 2018",2018-04-27,2020-12-14,962
+1076,Buprenorphine Hydrochloride Injection,"Dec 17, 2024","Aug 09, 2024",2024-08-09,2024-12-17,130
+114,Buprenorphine Sublingual Tablets,"May 26, 2016","Jul 10, 2015",2015-07-10,2016-05-26,321
+126,Bupropion Hydrochloride 24 Hour extended Release Tablets,"May 26, 2016","Jul 22, 2015",2015-07-22,2016-05-26,309
+465,Buspirone Tablets,"Jun 30, 2020","Sep 03, 2018",2018-09-03,2020-06-30,666
+509,Busulfan Injection,"Apr 29, 2024","Jan 04, 2019",2019-01-04,2024-04-29,1942
+676,Butorphanol Injection,"Dec 14, 2020","Aug 21, 2020",2020-08-21,2020-12-14,115
+906,Butorphanol Injection,"Sep 22, 2024","Jan 19, 2023",2023-01-19,2024-09-22,612
+414,Butorphanol Tartrate Injection,"Jun 07, 2019","Apr 19, 2018",2018-04-19,2019-06-07,414
+340,C1-Esterase Inhibitor (Human) Injection,"Jun 13, 2019","Aug 16, 2017",2017-08-16,2019-06-13,666
+692,Cabergoline Tablets,"May 23, 2023","Nov 02, 2020",2020-11-02,2023-05-23,932
+165,Caffeine and Sodium Benzoate Injection,"Nov 07, 2016","Sep 04, 2015",2015-09-04,2016-11-07,430
+309,Caffeine and Sodium Benzoate Injection,"Jun 26, 2017","Apr 30, 2017",2017-04-30,2017-06-26,57
+385,Caffeine and Sodium Benzoate Injection,"Jul 05, 2018","Jan 30, 2018",2018-01-30,2018-07-05,156
+630,Caffeine and Sodium Benzoate Injection,"Jun 15, 2020","Jan 29, 2020",2020-01-29,2020-06-15,138
+128,Caffeine Citrate Injection,"May 26, 2016","Jul 23, 2015",2015-07-23,2016-05-26,308
+129,Caffeine Citrate Oral Solution,"May 26, 2016","Jul 23, 2015",2015-07-23,2016-05-26,308
+218,Calcitriol Injection,"Jun 03, 2016","Jan 28, 2016",2016-01-28,2016-06-03,127
+464,Calcitriol Injection,"Nov 08, 2019","Aug 31, 2018",2018-08-31,2019-11-08,434
+728,Calcitriol Injection,"Oct 17, 2023","May 03, 2021",2021-05-03,2023-10-17,897
+916,Calcitriol Oral Solution,"Aug 14, 2026","Feb 24, 2023",2023-02-24,2026-08-14,1267
+617,Calcium Acetate Oral Capsules and Tablets,"Jan 30, 2023","Dec 05, 2019",2019-12-05,2023-01-30,1152
+48,Calcium Chloride Injection,"Jan 05, 2021","Jun 09, 2015",2015-06-09,2021-01-05,2037
+787,Calcium Chloride Injection,"Aug 18, 2025","Dec 28, 2021",2021-12-28,2025-08-18,1329
+707,Calcium Disodium Versenate Injection,"Jul 27, 2023","Dec 28, 2020",2020-12-28,2023-07-27,941
+150,Calcium Gluconate Injection,"Apr 22, 2019","Aug 19, 2015",2015-08-19,2019-04-22,1342
+714,Calcium Gluconate Injection,"Jul 20, 2021","Feb 16, 2021",2021-02-16,2021-07-20,154
+782,Calcium Gluconate Injection,"Feb 06, 2023","Dec 12, 2021",2021-12-12,2023-02-06,421
+34,Carbidopa and Levodopa Extended-Release Tablets,"May 26, 2016","Jun 01, 2015",2015-06-01,2016-05-26,360
+349,Carbidopa and Levodopa Extended-Release Tablets,"Mar 27, 2020","Sep 28, 2017",2017-09-28,2020-03-27,911
+994,Carbidopa and Levodopa Orally Disintegrating Tablets,"Jan 28, 2026","Sep 27, 2023",2023-09-27,2026-01-28,854
+54,Carboplatin Solution for Injection,"Mar 08, 2018","Jun 10, 2015",2015-06-10,2018-03-08,1002
+121,Cardioplegic Solution for Cardiac Perfusion,"Jul 26, 2016","Jul 20, 2015",2015-07-20,2016-07-26,372
+558,Carisoprodol Tablets,"Jul 01, 2022","Apr 25, 2019",2019-04-25,2022-07-01,1163
+173,Carvedilol Tablets,"Jun 14, 2016","Sep 16, 2015",2015-09-16,2016-06-14,272
+16,Cefazolin Injection,"May 17, 2016","May 28, 2015",2015-05-28,2016-05-17,355
+964,Cefdinir Oral Presentations,"Mar 05, 2026","Jun 29, 2023",2023-06-29,2026-03-05,980
+59,Cefepime Injection,"Sep 07, 2022","Jun 11, 2015",2015-06-11,2022-09-07,2645
+795,Cefixime Capsules,"Jan 09, 2024","Jan 21, 2022",2022-01-21,2024-01-09,718
+91,Cefotetan Disodium Injection,"May 15, 2017","Jun 25, 2015",2015-06-25,2017-05-15,690
+670,Cefotetan Disodium Injection,"Nov 15, 2021","Jul 22, 2020",2020-07-22,2021-11-15,481
+271,Cefoxitin Sodium Injection,"May 09, 2021","Nov 08, 2016",2016-11-08,2021-05-09,1643
+161,Cefpodoxime,"Sep 27, 2016","Sep 02, 2015",2015-09-02,2016-09-27,391
+343,Cefpodoxime Oral Suspension,"Oct 02, 2017","Aug 29, 2017",2017-08-29,2017-10-02,34
+410,Cefpodoxime Oral Suspension,"Nov 19, 2018","Apr 06, 2018",2018-04-06,2018-11-19,227
+63,Ceftazidime Injection,"Feb 24, 2023","Jun 11, 2015",2015-06-11,2023-02-24,2815
+705,Ceftolozane and Tazobactam Injection,"Jan 06, 2022","Dec 21, 2020",2020-12-21,2022-01-06,381
+86,Ceftriaxone Sodium Injection,"Nov 13, 2019","Jun 22, 2015",2015-06-22,2019-11-13,1605
+13,Cefuroxime Sodium Injection,"Jun 15, 2020","May 22, 2015",2015-05-22,2020-06-15,1851
+832,Cefuroxime Sodium Injection,"Mar 09, 2023","May 04, 2022",2022-05-04,2023-03-09,309
+839,Cetirizine Oral Solution,"Jan 11, 2023","Jun 02, 2022",2022-06-02,2023-01-11,223
+142,Chloramphenicol Sodium Succinate Injection,"Jun 15, 2016","Aug 12, 2015",2015-08-12,2016-06-15,308
+612,Chlordiazepoxide Capsules,"Jun 15, 2022","Nov 20, 2019",2019-11-20,2022-06-15,938
+455,Chloroprocaine Hydrochloride Injection,"Dec 10, 2018","Aug 16, 2018",2018-08-16,2018-12-10,116
+701,Chloroprocaine Hydrochloride Injection,"Apr 10, 2023","Dec 15, 2020",2020-12-15,2023-04-10,846
+278,Chloroquine Phosphate Tablets,"Feb 06, 2017","Dec 08, 2016",2016-12-08,2017-02-06,60
+640,Chloroquine Phosphate Tablets,"Jul 14, 2021","Mar 09, 2020",2020-03-09,2021-07-14,492
+14,Chloroquine Tablets,"Jun 17, 2016","May 27, 2015",2015-05-27,2016-06-17,387
+9,Chlorothiazide Oral Suspension,"Jan 05, 2017","May 08, 2015",2015-05-08,2017-01-05,608
+667,Chlorothiazide Oral Suspension,"Dec 28, 2020","Jul 01, 2020",2020-07-01,2020-12-28,180
+895,Chlorothiazide Oral Suspension,"Mar 09, 2023","Dec 14, 2022",2022-12-14,2023-03-09,85
+607,Chlorothiazide Oral Tablets and Suspension,"Dec 23, 2019","Nov 04, 2019",2019-11-04,2019-12-23,49
+365,Chlorothiazide Sodium Injection,"Oct 23, 2018","Dec 11, 2017",2017-12-11,2018-10-23,316
+638,Chlorothiazide Sodium Injection,"Aug 10, 2021","Mar 06, 2020",2020-03-06,2021-08-10,522
+843,Chlorothiazide Sodium Injection,"Nov 29, 2023","Jun 14, 2022",2022-06-14,2023-11-29,533
+1140,Chlorothiazide Sodium Injection,"Aug 27, 2026","Mar 12, 2025",2025-03-12,2026-08-27,533
+102,Chlorpromazine Injection,"Aug 23, 2016","Jul 01, 2015",2015-07-01,2016-08-23,419
+118,Chorionic Gonadotropin (Human) for Injection,"Nov 25, 2019","Jul 13, 2015",2015-07-13,2019-11-25,1596
+1081,Chromic Chloride Injection,"Mar 02, 2025","Aug 28, 2024",2024-08-28,2025-03-02,186
+486,Cidofovir Injection,"Jul 17, 2019","Oct 26, 2018",2018-10-26,2019-07-17,264
+745,Cidofovir Injection,"Aug 10, 2021","Aug 04, 2021",2021-08-04,2021-08-10,6
+1088,Cidofovir Injection,"Jun 03, 2025","Sep 19, 2024",2024-09-19,2025-06-03,257
+954,Cimetidine Oral Solution,"Jun 20, 2025","May 24, 2023",2023-05-24,2025-06-20,758
+396,Ciprofloxacin Injection,"Aug 27, 2019","Feb 14, 2018",2018-02-14,2019-08-27,559
+904,Ciprofloxacin Injection,"Jul 22, 2025","Jan 13, 2023",2023-01-13,2025-07-22,921
+443,Ciprofloxacin Ophthalmic Solution,"Mar 22, 2023","Jul 17, 2018",2018-07-17,2023-03-22,1709
+255,Ciprofloxacin Oral Suspension,"Nov 25, 2019","Aug 24, 2016",2016-08-24,2019-11-25,1188
+234,Cisatracurium Besylate Injection,"Sep 09, 2016","Apr 14, 2016",2016-04-14,2016-09-09,148
+652,Cisatracurium Besylate Injection,"Aug 11, 2022","Apr 03, 2020",2020-04-03,2022-08-11,860
+96,Cisplatin Injection,"Dec 18, 2018","Jun 25, 2015",2015-06-25,2018-12-18,1272
+538,Clomiphene Citrate Tablets,"Nov 09, 2022","Feb 28, 2019",2019-02-28,2022-11-09,1350
+378,Clonidine Extended-Release Tablets,"Mar 27, 2018","Jan 12, 2018",2018-01-12,2018-03-27,74
+554,Clonidine Hydrochloride Injection,"Sep 16, 2019","Apr 09, 2019",2019-04-09,2019-09-16,160
+541,Clotrimazole Lozenges (Clotrimazole Troches),"May 18, 2023","Mar 05, 2019",2019-03-05,2023-05-18,1535
+1025,Cocaine Hydrochloride 4% Nasal Solution,"Oct 06, 2024","Jan 17, 2024",2024-01-17,2024-10-06,263
+1048,Colestipol Hydrochloride Granules for Oral Suspension,"Mar 22, 2024","Mar 21, 2024",2024-03-21,2024-03-22,1
+704,Colestipol Oral Tablets,"Dec 12, 2022","Dec 18, 2020",2020-12-18,2022-12-12,724
+982,Collagenase Ointment,"Oct 02, 2024","Aug 23, 2023",2023-08-23,2024-10-02,406
+722,Conjugated Estrogens and Bazedoxifene,"May 19, 2023","Mar 16, 2021",2021-03-16,2023-05-19,794
+736,Conjugated Estrogens Cream,"Aug 05, 2021","May 21, 2021",2021-05-21,2021-08-05,76
+1159,Conjugated Estrogens Injection,"Sep 22, 2025","May 21, 2025",2025-05-21,2025-09-22,124
+1202,Conjugated Estrogens Injection,"May 08, 2026","Jan 27, 2026",2026-01-27,2026-05-08,101
+553,Copper Chloride Injection,"Nov 25, 2019","Apr 08, 2019",2019-04-08,2019-11-25,231
+987,Copper Chloride Injection,"Jan 25, 2024","Sep 08, 2023",2023-09-08,2024-01-25,139
+694,Corticorelin Ovine Triflutate Injection,"Aug 15, 2022","Nov 02, 2020",2020-11-02,2022-08-15,651
+522,Cosyntropin Injection,"Jan 03, 2024","Jan 22, 2019",2019-01-22,2024-01-03,1807
+193,Cyclopentolate and Phenylephrine Ophthalmic Solution,"Oct 17, 2016","Oct 21, 2015",2015-10-21,2016-10-17,362
+784,Cyclopentolate and Phenylephrine Ophthalmic Solution,"Feb 11, 2022","Dec 14, 2021",2021-12-14,2022-02-11,59
+809,Cyclopentolate and Phenylephrine Ophthalmic Solution,"Jan 13, 2023","Feb 23, 2022",2022-02-23,2023-01-13,324
+1041,Cyclopentolate and Phenylephrine Ophthalmic Solution,"Apr 30, 2024","Feb 22, 2024",2024-02-22,2024-04-30,68
+668,Cyclopentolate Hydrochloride Ophthalmic Solution,"Oct 17, 2024","Jul 09, 2020",2020-07-09,2024-10-17,1561
+476,Cyclosporine Capsules,"Nov 22, 2019","Sep 27, 2018",2018-09-27,2019-11-22,421
+534,Cyclosporine Injection,"Aug 04, 2023","Feb 20, 2019",2019-02-20,2023-08-04,1626
+596,Cyclosporine Oral Solution,"Jun 04, 2021","Sep 24, 2019",2019-09-24,2021-06-04,619
+1011,Cyclosporine Oral Solution,"Aug 15, 2024","Dec 06, 2023",2023-12-06,2024-08-15,253
+133,Cytarabine Injection,"Oct 19, 2016","Jul 29, 2015",2015-07-29,2016-10-19,448
+770,Cytarabine Injection,"Mar 29, 2023","Nov 01, 2021",2021-11-01,2023-03-29,513
+743,Dacarbazine Injection,"May 01, 2025","Jul 23, 2021",2021-07-23,2025-05-01,1378
+399,Dalbavancin Injection,"Jun 21, 2018","Feb 20, 2018",2018-02-20,2018-06-21,121
+477,Dalbavancin Injection,"Dec 17, 2018","Sep 28, 2018",2018-09-28,2018-12-17,80
+882,Dalbavancin Injection,"Mar 09, 2023","Nov 03, 2022",2022-11-03,2023-03-09,126
+627,Dalfopristin and Quinupristin Injection,"Mar 23, 2020","Jan 10, 2020",2020-01-10,2020-03-23,73
+801,Dantrolene Sodium Injection,"Dec 20, 2023","Feb 08, 2022",2022-02-08,2023-12-20,680
+1062,Dantrolene Sodium Injection,"Nov 01, 2024","Jun 05, 2024",2024-06-05,2024-11-01,149
+224,"Daptacel - Diphtheria, Tetanus Toxoid, and Acellular Pertussis Vaccine (DTaP)","Dec 19, 2016","Feb 17, 2016",2016-02-17,2016-12-19,306
+467,Daptomycin Injection,"Aug 29, 2022","Sep 07, 2018",2018-09-07,2022-08-29,1452
+2,Daunorubicin Hydrochloride Injection,"May 26, 2016","May 06, 2015",2015-05-06,2016-05-26,386
+393,Deferoxamine Injection,"Aug 16, 2021","Feb 07, 2018",2018-02-07,2021-08-16,1286
+1059,Deferoxamine Injection,"Aug 15, 2024","May 07, 2024",2024-05-07,2024-08-15,100
+1,Deferoxamine mesylate injection,"May 17, 2016","May 06, 2015",2015-05-06,2016-05-17,377
+560,Degarelix Acetate Injection,"Aug 19, 2019","May 01, 2019",2019-05-01,2019-08-19,110
+350,Desiccated Thyroid Tablets,"Feb 19, 2020","Sep 28, 2017",2017-09-28,2020-02-19,874
+683,Desiccated Thyroid Tablets,"Sep 18, 2025","Sep 22, 2020",2020-09-22,2025-09-18,1822
+82,Desmopressin Injection,"Nov 07, 2016","Jun 18, 2015",2015-06-18,2016-11-07,508
+160,Dexamethasone 0.1% Ophthalmic Drops,"May 17, 2016","Sep 01, 2015",2015-09-01,2016-05-17,259
+491,Dexmedetomidine Hydrochloride 100 mcg/mL Vials for Injection,"Mar 15, 2022","Nov 07, 2018",2018-11-07,2022-03-15,1224
+398,Dexmedetomidine Hydrochloride 4 mcg/mL Premix for Injection,"Aug 20, 2019","Feb 15, 2018",2018-02-15,2019-08-20,551
+653,Dexmedetomidine Hydrochloride 4 mcg/mL Premix for Injection,"May 26, 2021","Apr 06, 2020",2020-04-06,2021-05-26,415
+294,Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection,"Sep 19, 2017","Feb 22, 2017",2017-02-22,2017-09-19,209
+1035,Dexrazoxane Hydrochloride Injection,"Dec 05, 2024","Feb 13, 2024",2024-02-13,2024-12-05,296
+107,Dexrazoxane Injection,"Aug 13, 2020","Jul 01, 2015",2015-07-01,2020-08-13,1870
+179,"Dextran Low Molecular Weight (Dextran 40), 10% Injection","May 17, 2016","Sep 16, 2015",2015-09-16,2016-05-17,244
+742,"Dextran Low Molecular Weight (Dextran 40), 10% Injection","Jan 27, 2022","Jul 13, 2021",2021-07-13,2022-01-27,198
+1111,"Dextran Low Molecular Weight (Dextran 40), 10% Injection","Aug 06, 2025","Oct 30, 2024",2024-10-30,2025-08-06,280
+819,Dextrose Oral Gel,"May 17, 2023","Mar 21, 2022",2022-03-21,2023-05-17,422
+330,Diazepam Injection,"Dec 23, 2019","Jun 06, 2017",2017-06-06,2019-12-23,930
+854,Diazepam Injection,"May 18, 2023","Jul 18, 2022",2022-07-18,2023-05-18,304
+836,Diazepam Rectal Gel,"Jan 29, 2024","May 25, 2022",2022-05-25,2024-01-29,614
+886,Diazoxide Oral Suspension,"Apr 07, 2023","Nov 16, 2022",2022-11-16,2023-04-07,142
+78,Dibucaine Ointment,"Jan 12, 2017","Jun 18, 2015",2015-06-18,2017-01-12,574
+658,Dibucaine Ointment,"Dec 28, 2020","May 08, 2020",2020-05-08,2020-12-28,234
+395,Diclofenac 0.1% Ophthalmic Solution,"Dec 06, 2023","Feb 07, 2018",2018-02-07,2023-12-06,2128
+537,Diclofenac Potassium Tablets,"Aug 14, 2020","Feb 28, 2019",2019-02-28,2020-08-14,533
+546,Diclofenac Sodium 1% Topical Gel,"Jul 17, 2019","Mar 14, 2019",2019-03-14,2019-07-17,125
+520,Dicyclomine Injection,"Aug 22, 2019","Jan 16, 2019",2019-01-16,2019-08-22,218
+521,Dicyclomine Oral Presentations,"Apr 06, 2026","Jan 22, 2019",2019-01-22,2026-04-06,2631
+143,Digoxin Injection,"May 17, 2016","Aug 12, 2015",2015-08-12,2016-05-17,279
+734,Digoxin Injection,"Aug 17, 2022","May 19, 2021",2021-05-19,2022-08-17,455
+908,Digoxin Injection,"Mar 21, 2024","Jan 30, 2023",2023-01-30,2024-03-21,416
+248,Dihydroergotamine Mesylate Injection,"Aug 17, 2017","Jul 13, 2016",2016-07-13,2017-08-17,400
+1075,Dihydroergotamine Mesylate Injection,"Apr 23, 2026","Aug 08, 2024",2024-08-08,2026-04-23,623
+264,Diltiazem Extended-Release Capsules (Twice-Daily Dosing),"Jan 06, 2017","Oct 04, 2016",2016-10-04,2017-01-06,94
+496,Diltiazem Extended-Release Capsules (Twice-Daily Dosing),"May 30, 2019","Nov 28, 2018",2018-11-28,2019-05-30,183
+26,Diltiazem Hydrochloride Injection,"Apr 24, 2024","Jun 01, 2015",2015-06-01,2024-04-24,3250
+1172,Dimenhydrinate Injection,"Dec 10, 2025","Aug 14, 2025",2025-08-14,2025-12-10,118
+456,Diphenhydramine Injection,"Nov 30, 2020","Aug 21, 2018",2018-08-21,2020-11-30,832
+814,Diphenhydramine Injection,"May 14, 2025","Mar 14, 2022",2022-03-14,2025-05-14,1157
+211,Dipyridamole Injection,"May 17, 2016","Jan 13, 2016",2016-01-13,2016-05-17,125
+345,Dipyridamole Injection,"Oct 01, 2018","Sep 13, 2017",2017-09-13,2018-10-01,383
+23,Disopyramide Phosphate Controlled-Release Capsules,"May 26, 2016","Jun 01, 2015",2015-06-01,2016-05-26,360
+291,Disopyramide Phosphate Controlled-Release Capsules,"Mar 23, 2018","Feb 09, 2017",2017-02-09,2018-03-23,407
+689,Disopyramide Phosphate Controlled-Release Capsules,"Jan 28, 2022","Oct 28, 2020",2020-10-28,2022-01-28,457
+601,Disulfiram Tablets,"Jan 07, 2021","Oct 01, 2019",2019-10-01,2021-01-07,464
+1072,Disulfiram Tablets,"May 16, 2025","Jul 23, 2024",2024-07-23,2025-05-16,297
+296,Dobutamine Injection,"Jun 23, 2026","Mar 01, 2017",2017-03-01,2026-06-23,3401
+585,Docusate Sodium Oral Liquid in Bulk Bottles,"Aug 11, 2021","Aug 19, 2019",2019-08-19,2021-08-11,723
+940,Dofetilide Capsules,"Jun 12, 2025","Apr 26, 2023",2023-04-26,2025-06-12,778
+226,Dolasetron Mesylate Injection,"Jul 14, 2017","Feb 29, 2016",2016-02-29,2017-07-14,501
+246,Dopamine Hydrochloride Injection,"May 16, 2021","Jun 08, 2016",2016-06-08,2021-05-16,1803
+360,Dorzolamide 2% and Timolol 0.5% Ophthalmic Solution,"May 27, 2021","Oct 30, 2017",2017-10-30,2021-05-27,1305
+359,Dorzolamide Ophthalmic Solution,"May 04, 2022","Oct 30, 2017",2017-10-30,2022-05-04,1647
+1155,Doxazosin Extended Release Oral Tablets,"Sep 16, 2025","May 05, 2025",2025-05-05,2025-09-16,134
+691,Doxercalciferol Capsules,"Oct 07, 2024","Oct 29, 2020",2020-10-29,2024-10-07,1439
+71,Doxorubicin Liposomal Injection,"Oct 29, 2015","Jun 16, 2015",2015-06-16,2015-10-29,135
+969,Doxorubicin Liposomal Injection,"Jun 02, 2025","Jul 19, 2023",2023-07-19,2025-06-02,684
+230,Doxycycline Hyclate Injection,"Jul 08, 2016","Mar 24, 2016",2016-03-24,2016-07-08,106
+356,Doxycycline Hyclate Injection,"May 21, 2018","Oct 30, 2017",2017-10-30,2018-05-21,203
+559,Doxycycline Hyclate Injection,"Dec 23, 2020","May 01, 2019",2019-05-01,2020-12-23,602
+776,Doxycycline Oral Suspension,"Mar 22, 2024","Nov 16, 2021",2021-11-16,2024-03-22,857
+539,Droperidol Injection,"Mar 01, 2019","Mar 01, 2019",2019-03-01,2019-03-01,0
+603,Droperidol Injection,"Sep 21, 2020","Oct 15, 2019",2019-10-15,2020-09-21,342
+695,Droperidol Injection,"Jul 13, 2021","Nov 11, 2020",2020-11-11,2021-07-13,244
+816,Droperidol Injection,"Jul 18, 2022","Mar 15, 2022",2022-03-15,2022-07-18,125
+1107,Droperidol Injection,"Jul 09, 2025","Oct 23, 2024",2024-10-23,2025-07-09,259
+851,Duloxetine Delayed Release Sprinkle Capsules,"Jul 09, 2024","Jul 11, 2022",2022-07-11,2024-07-09,729
+1156,Dupilumab Injection,"May 29, 2025","May 07, 2025",2025-05-07,2025-05-29,22
+195,Enalaprilat Injection,"Aug 01, 2016","Nov 17, 2015",2015-11-17,2016-08-01,258
+488,Enalaprilat Injection,"Apr 12, 2021","Oct 31, 2018",2018-10-31,2021-04-12,894
+960,Enalaprilat Injection,"Nov 08, 2023","Jun 14, 2023",2023-06-14,2023-11-08,147
+466,Enoxaparin Sodium Injection,"Dec 20, 2021","Sep 05, 2018",2018-09-05,2021-12-20,1202
+44,Ephedrine injection,"May 26, 2016","Jun 08, 2015",2015-06-08,2016-05-26,353
+60,Epinephrine Injection,"Feb 24, 2017","Jun 11, 2015",2015-06-11,2017-02-24,624
+313,Epinephrine Injection,"Aug 18, 2025","May 04, 2017",2017-05-04,2025-08-18,3028
+846,Epoetin Alfa Injection,"Jun 27, 2025","Jun 27, 2022",2022-06-27,2025-06-27,1096
+759,Epoprostenol Injection and Sterile Diluent,"Jul 14, 2023","Sep 15, 2021",2021-09-15,2023-07-14,667
+188,Eptifibatide Injection,"Aug 11, 2016","Sep 23, 2015",2015-09-23,2016-08-11,323
+661,Eptifibatide Injection,"Aug 31, 2026","May 20, 2020",2020-05-20,2026-08-31,2294
+247,Erythromycin Lactobionate Injection,"Sep 23, 2019","Jul 11, 2016",2016-07-11,2019-09-23,1169
+619,Erythromycin Lactobionate Injection,"Mar 30, 2020","Dec 09, 2019",2019-12-09,2020-03-30,112
+540,Erythromycin Ophthalmic Ointment,"Aug 14, 2020","Mar 01, 2019",2019-03-01,2020-08-14,532
+850,Erythromycin Ophthalmic Ointment,"Jul 26, 2024","Jul 08, 2022",2022-07-08,2024-07-26,749
+796,Esmolol Injection,"Nov 07, 2023","Jan 28, 2022",2022-01-28,2023-11-07,648
+1070,Esmolol Injection,"Jun 23, 2025","Jul 16, 2024",2024-07-16,2025-06-23,342
+1085,Estradiol and Norethindrone Acetate Transdermal System (Combipatch),"Oct 17, 2024","Sep 12, 2024",2024-09-12,2024-10-17,35
+838,Estradiol Cypionate Injection,"Oct 13, 2023","May 27, 2022",2022-05-27,2023-10-13,504
+1069,Estradiol Cypionate Injection,"Dec 15, 2024","Jul 09, 2024",2024-07-09,2024-12-15,159
+1031,Estradiol Vaginal System,"Feb 12, 2024","Feb 05, 2024",2024-02-05,2024-02-12,7
+1042,Estradiol Vaginal System,"May 06, 2024","Feb 26, 2024",2024-02-26,2024-05-06,70
+73,Estradiol Valerate Injection,"Jun 12, 2017","Jun 17, 2015",2015-06-17,2017-06-12,726
+424,Estradiol Valerate Injection,"Nov 01, 2018","May 08, 2018",2018-05-08,2018-11-01,177
+570,Estradiol Valerate Injection,"Jul 25, 2019","Jun 06, 2019",2019-06-06,2019-07-25,49
+5,Ethambutol Tablets,"May 26, 2016","May 06, 2015",2015-05-06,2016-05-26,386
+665,Ethambutol Tablets,"May 09, 2022","Jun 09, 2020",2020-06-09,2022-05-09,699
+39,Ethiodized Oil,"Sep 17, 2019","Jun 03, 2015",2015-06-03,2019-09-17,1567
+147,Etomidate Injection,"May 07, 2021","Aug 13, 2015",2015-08-13,2021-05-07,2094
+257,Etoposide Phosphate Injection,"Oct 08, 2017","Aug 30, 2016",2016-08-30,2017-10-08,404
+390,Etoposide Phosphate Injection,"Mar 06, 2018","Feb 05, 2018",2018-02-05,2018-03-06,29
+369,Etoposide Solution for Injection,"Dec 10, 2018","Dec 21, 2017",2017-12-21,2018-12-10,354
+1030,Etoposide Solution for Injection,"Apr 28, 2025","Jan 31, 2024",2024-01-31,2025-04-28,453
+826,Exactamix Valve Sets,"Mar 10, 2023","Apr 15, 2022",2022-04-15,2023-03-10,329
+166,Famotidine Injection,"Jul 29, 2019","Sep 08, 2015",2015-09-08,2019-07-29,1420
+656,Famotidine Injection,"Oct 24, 2023","Apr 30, 2020",2020-04-30,2023-10-24,1272
+616,Famotidine Tablets,"Sep 01, 2022","Dec 04, 2019",2019-12-04,2022-09-01,1002
+214,Fat Emulsion,"Jan 15, 2016","Jan 14, 2016",2016-01-14,2016-01-15,1
+750,Fat Emulsion,"Sep 12, 2023","Aug 18, 2021",2021-08-18,2023-09-12,755
+958,Ferric Subsulfate Solution,"Dec 20, 2023","Jun 07, 2023",2023-06-07,2023-12-20,196
+254,Ferrous Sulfate Oral Pediatric Drops,"Jan 31, 2017","Aug 11, 2016",2016-08-11,2017-01-31,173
+687,Floxuridine Injection,"Feb 13, 2023","Oct 14, 2020",2020-10-14,2023-02-13,852
+318,Fluconazole Injection,"Jan 12, 2021","May 11, 2017",2017-05-11,2021-01-12,1342
+1077,Fluconazole Injection,"Jul 01, 2025","Aug 09, 2024",2024-08-09,2025-07-01,326
+285,Fludarabine Injection,"Oct 04, 2017","Jan 09, 2017",2017-01-09,2017-10-04,268
+622,Fludarabine Injection,"Apr 07, 2024","Dec 17, 2019",2019-12-17,2024-04-07,1573
+484,Fludrocortisone Acetate Tablets,"Oct 23, 2019","Oct 25, 2018",2018-10-25,2019-10-23,363
+68,Flumazenil Injection,"Jan 31, 2017","Jun 15, 2015",2015-06-15,2017-01-31,596
+490,Flumazenil Injection,"May 30, 2019","Nov 06, 2018",2018-11-06,2019-05-30,205
+757,Flumazenil Injection,"Aug 30, 2022","Sep 02, 2021",2021-09-02,2022-08-30,362
+1045,Flumazenil Injection,"Nov 11, 2024","Mar 04, 2024",2024-03-04,2024-11-11,252
+1169,Fluocinolone Acetonide Intravitreal Implant,"Apr 24, 2026","Aug 04, 2025",2025-08-04,2026-04-24,263
+242,Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution,"Aug 30, 2016","May 17, 2016",2016-05-17,2016-08-30,105
+421,Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution,"Jun 27, 2018","May 03, 2018",2018-05-03,2018-06-27,55
+1117,Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution,"Jan 09, 2025","Nov 20, 2024",2024-11-20,2025-01-09,50
+840,Fluorescein Sodium Injection,"Jan 10, 2023","Jun 02, 2022",2022-06-02,2023-01-10,222
+927,Fluorescein Sodium Injection,"Dec 14, 2023","Mar 17, 2023",2023-03-17,2023-12-14,272
+362,Fluorescein Sodium Ophthalmic Strips,"Feb 23, 2023","Nov 03, 2017",2017-11-03,2023-02-23,1938
+217,Fluorouracil Injection,"Oct 21, 2016","Jan 28, 2016",2016-01-28,2016-10-21,267
+401,Fluorouracil Injection,"Jun 06, 2019","Feb 28, 2018",2018-02-28,2019-06-06,463
+732,Fluphenazine Hydrochloride Injection,"Jun 28, 2021","May 19, 2021",2021-05-19,2021-06-28,40
+478,Fluphenazine Tablets,"May 29, 2019","Oct 02, 2018",2018-10-02,2019-05-29,239
+244,Flurandrenolide Tape,"Nov 10, 2016","May 26, 2016",2016-05-26,2016-11-10,168
+557,Flurazepam Capsules,"Nov 17, 2023","Apr 25, 2019",2019-04-25,2023-11-17,1667
+1005,Flurazepam Capsules,"Jul 08, 2026","Nov 10, 2023",2023-11-10,2026-07-08,971
+342,Flurbiprofen Sodium Ophthalmic Solution,"Jul 31, 2018","Aug 16, 2017",2017-08-16,2018-07-31,349
+544,Fluticasone and Salmeterol Powder for Inhalation,"Jan 10, 2020","Mar 07, 2019",2019-03-07,2020-01-10,309
+650,Fluticasone Propionate Oral Inhalers,"Jan 26, 2024","Mar 30, 2020",2020-03-30,2024-01-26,1397
+561,Fluvastatin Capsules,"May 13, 2020","May 06, 2019",2019-05-06,2020-05-13,373
+1036,Fluvoxamine Maleate Extended-Release Capsules,"Apr 14, 2025","Feb 13, 2024",2024-02-13,2025-04-14,426
+348,Folic Acid Injection,"Jan 14, 2018","Sep 20, 2017",2017-09-20,2018-01-14,116
+518,Folic Acid Injection,"Mar 11, 2019","Jan 14, 2019",2019-01-14,2019-03-11,56
+762,Folic Acid Injection,"Mar 23, 2022","Sep 29, 2021",2021-09-29,2022-03-23,175
+922,Folic Acid Injection,"Jun 05, 2023","Mar 07, 2023",2023-03-07,2023-06-05,90
+243,Follitropin Beta,"Aug 15, 2016","May 18, 2016",2016-05-18,2016-08-15,89
+19,Fomepizole Injection,"Sep 08, 2016","May 29, 2015",2015-05-29,2016-09-08,468
+394,Fomepizole Injection,"Oct 02, 2018","Feb 07, 2018",2018-02-07,2018-10-02,237
+824,Fosphenytoin Sodium Injection,"Jun 02, 2024","Apr 14, 2022",2022-04-14,2024-06-02,780
+115,Furosemide Injection,"Nov 09, 2016","Jul 10, 2015",2015-07-10,2016-11-09,488
+339,Furosemide Tablets,"Dec 12, 2019","Aug 08, 2017",2017-08-08,2019-12-12,856
+943,Gabapentin Oral Solution,"Jul 09, 2024","May 01, 2023",2023-05-01,2024-07-09,435
+237,Gadoteridol Injection,"Apr 25, 2017","Apr 26, 2016",2016-04-26,2017-04-25,364
+239,Gentamicin Injection,"Nov 22, 2017","May 03, 2016",2016-05-03,2017-11-22,568
+637,Gentamicin Injection,"Dec 08, 2020","Mar 05, 2020",2020-03-05,2020-12-08,278
+412,Gentamicin Sulfate Ophthalmic Ointment,"Jun 09, 2020","Apr 11, 2018",2018-04-11,2020-06-09,790
+876,Glucagon Injection,"Jun 17, 2024","Oct 18, 2022",2022-10-18,2024-06-17,608
+428,Granisetron Hydrochloride Injection,"Dec 03, 2018","May 23, 2018",2018-05-23,2018-12-03,194
+1057,Granisetron Hydrochloride Injection,"Jul 06, 2024","Apr 23, 2024",2024-04-23,2024-07-06,74
+579,Griseofulvin Oral Presentations,"Aug 06, 2020","Jul 18, 2019",2019-07-18,2020-08-06,385
+508,Guanfacine Hydrochloride Tablets,"Aug 15, 2024","Jan 04, 2019",2019-01-04,2024-08-15,2050
+213,Haemophilus B Conjugate Vaccine,"Dec 19, 2016","Jan 14, 2016",2016-01-14,2016-12-19,340
+139,Haloperidol Decanoate Injection,"Jun 15, 2017","Aug 06, 2015",2015-08-06,2017-06-15,679
+30,Haloperidol Lactate Injection,"Jun 20, 2018","Jun 01, 2015",2015-06-01,2018-06-20,1115
+552,Haloperidol Lactate Injection,"Dec 09, 2020","Apr 05, 2019",2019-04-05,2020-12-09,614
+698,Haloperidol Lactate Injection,"May 08, 2026","Dec 09, 2020",2020-12-09,2026-05-08,1976
+459,Haloperidol Tablets,"Jan 14, 2020","Aug 23, 2018",2018-08-23,2020-01-14,509
+803,Heparin Lock Flush,"Apr 27, 2023","Feb 10, 2022",2022-02-10,2023-04-27,441
+417,Heparin Lock Flush Syringes,"Mar 02, 2023","Apr 25, 2018",2018-04-25,2023-03-02,1772
+1122,Heparin Lock Flush Syringes,"Aug 14, 2025","Dec 18, 2024",2024-12-18,2025-08-14,239
+146,Heparin Sodium Premixed Bags,"Jun 23, 2016","Aug 12, 2015",2015-08-12,2016-06-23,316
+468,Heparin Sodium Premixed Bags,"Jul 29, 2025","Sep 07, 2018",2018-09-07,2025-07-29,2517
+280,Hepatitis A Virus Vaccine Inactivated,"Aug 28, 2019","Dec 12, 2016",2016-12-12,2019-08-28,989
+320,Hepatitis B Vaccine (Recombinant),"Apr 28, 2025","May 16, 2017",2017-05-16,2025-04-28,2904
+716,Histrelin Implant,"Sep 24, 2021","Feb 17, 2021",2021-02-17,2021-09-24,219
+101,Hydralazine Injection,"Jun 06, 2017","Jun 29, 2015",2015-06-29,2017-06-06,708
+431,Hydralazine injection,"May 18, 2023","Jun 04, 2018",2018-06-04,2023-05-18,1809
+648,Hydrocortisone Oral Tablets,"Oct 14, 2021","Mar 25, 2020",2020-03-25,2021-10-14,568
+920,Hydrocortisone Sodium Succinate Injection,"Oct 22, 2025","Mar 01, 2023",2023-03-01,2025-10-22,966
+1184,Hydrocortisone Sodium Succinate Injection,"Dec 10, 2025","Oct 29, 2025",2025-10-29,2025-12-10,42
+1000,Hydromorphone Rectal Suppositories,"Apr 09, 2024","Oct 23, 2023",2023-10-23,2024-04-09,169
+446,Hydroxocobalamin Injection,"Dec 04, 2019","Jul 25, 2018",2018-07-25,2019-12-04,497
+725,Hydroxocobalamin Injection,"Jan 27, 2022","Apr 13, 2021",2021-04-13,2022-01-27,289
+1112,Hydroxocobalamin Injection,"Sep 22, 2025","Nov 01, 2024",2024-11-01,2025-09-22,325
+988,Hydroxocobalamin Solution for Intramuscular Injection,"Oct 03, 2024","Sep 08, 2023",2023-09-08,2024-10-03,391
+116,Hydroxyamphetamine Hydrobromide and Tropicamide Ophthalmic Solution,"Apr 25, 2017","Jul 13, 2015",2015-07-13,2017-04-25,652
+3,Hydroxychloroquine Sulfate Tablets,"May 26, 2016","May 06, 2015",2015-05-06,2016-05-26,386
+646,Hydroxychloroquine Sulfate Tablets,"Jun 14, 2022","Mar 19, 2020",2020-03-19,2022-06-14,817
+938,Hydroxyethyl Starch,"Jun 17, 2024","Apr 19, 2023",2023-04-19,2024-06-17,425
+454,Hydroxyethyl Starch in Sodium Chloride Injection,"Dec 18, 2020","Aug 16, 2018",2018-08-16,2020-12-18,855
+501,Hydroxyprogesterone Caproate Injection,"May 14, 2021","Dec 10, 2018",2018-12-10,2021-05-14,886
+947,Hydroxyurea capsules (Droxia),"Jul 26, 2023","May 10, 2023",2023-05-10,2023-07-26,77
+50,Hydroxyzine Hydrochloride Injection,"May 26, 2016","Jun 09, 2015",2015-06-09,2016-05-26,352
+300,Hydroxyzine Hydrochloride Injection,"Apr 30, 2018","Mar 08, 2017",2017-03-08,2018-04-30,418
+545,Hydroxyzine Pamoate Oral Capsules,"Jul 30, 2025","Mar 14, 2019",2019-03-14,2025-07-30,2330
+333,Hyoscyamine Sulfate Injection,"Nov 16, 2017","Jun 27, 2017",2017-06-27,2017-11-16,142
+556,Hyoscyamine Sulfate Injection,"Jun 18, 2019","Apr 15, 2019",2019-04-15,2019-06-18,64
+615,Hyoscyamine Sulfate Injection,"Feb 02, 2021","Dec 03, 2019",2019-12-03,2021-02-02,427
+437,Hypromellose Ophthalmic Solution,"Sep 12, 2025","Jun 08, 2018",2018-06-08,2025-09-12,2653
+889,Ibuprofen Oral Suspension (Prescription Products Only),"Nov 20, 2023","Nov 28, 2022",2022-11-28,2023-11-20,357
+829,Ibutilide Fumarate Injection,"Dec 28, 2022","Apr 27, 2022",2022-04-27,2022-12-28,245
+1018,Idarubicin Injection,"Apr 09, 2026","Dec 15, 2023",2023-12-15,2026-04-09,846
+1008,Iloprost Inhalation Solution (Ventavis),"Nov 04, 2025","Nov 28, 2023",2023-11-28,2025-11-04,707
+10,Imipenem and Cilastatin Sodium,"Nov 11, 2016","May 13, 2015",2015-05-13,2016-11-11,548
+527,"Immune Globulin, Intravenous or Subcutaneous (Human)","Mar 04, 2022","Feb 07, 2019",2019-02-07,2022-03-04,1121
+515,"Immune Globulin, Subcutaneous (Human)","Feb 19, 2021","Jan 09, 2019",2019-01-09,2021-02-19,772
+175,Indigo Carmine Injection,"Jan 22, 2018","Sep 16, 2015",2015-09-16,2018-01-22,859
+746,Indigo Carmine Injection,"Jun 22, 2023","Aug 11, 2021",2021-08-11,2023-06-22,680
+225,Indocyanine Green,"Feb 09, 2017","Feb 24, 2016",2016-02-24,2017-02-09,351
+324,Indocyanine Green,"Aug 07, 2019","May 19, 2017",2017-05-19,2019-08-07,810
+1073,Indocyanine Green,"Aug 22, 2025","Jul 23, 2024",2024-07-23,2025-08-22,395
+235,Indomethacin Capsules,"Jul 23, 2019","Apr 25, 2016",2016-04-25,2019-07-23,1184
+780,Insulin Aspart Injection,"Jan 05, 2022","Nov 19, 2021",2021-11-19,2022-01-05,47
+1003,Insulin Aspart Injection,"Jan 26, 2026","Nov 10, 2023",2023-11-10,2026-01-26,808
+1068,Insulin Aspart Protamine and Insulin Aspart Mix,"Sep 26, 2024","Jul 07, 2024",2024-07-07,2024-09-26,81
+1142,Insulin Degludec Injection,"Aug 06, 2025","Mar 13, 2025",2025-03-13,2025-08-06,146
+773,Insulin Detemir Injection,"Jan 05, 2022","Nov 08, 2021",2021-11-08,2022-01-05,58
+907,Insulin Detemir Injection,"Aug 12, 2024","Jan 19, 2023",2023-01-19,2024-08-12,571
+1198,Insulin Human Regular Concentrated,"Dec 22, 2025","Dec 22, 2025",2025-12-22,2025-12-22,0
+1060,"Insulin Isophane (NPH) and Insulin Regular, Human","Nov 18, 2024","May 20, 2024",2024-05-20,2024-11-18,182
+1051,Insulin Lispro Injection (Humalog),"May 23, 2024","Mar 29, 2024",2024-03-29,2024-05-23,55
+1029,Insulin Regular Injection,"May 20, 2024","Jan 30, 2024",2024-01-30,2024-05-20,111
+270,Intranasal Mucosal Atomization Device,"Apr 07, 2017","Nov 03, 2016",2016-11-03,2017-04-07,155
+1188,Iodine and Potassium Iodide,"Feb 10, 2026","Nov 10, 2025",2025-11-10,2026-02-10,92
+834,Iodixanol Injection,"Jun 20, 2023","May 12, 2022",2022-05-12,2023-06-20,404
+830,Iohexol Injection,"Jun 20, 2023","Apr 29, 2022",2022-04-29,2023-06-20,417
+495,Iopamidol Injection,"Aug 05, 2024","Nov 20, 2018",2018-11-20,2024-08-05,2085
+577,Iopromide Injection,"Aug 12, 2024","Jun 24, 2019",2019-06-24,2024-08-12,1876
+221,Iothalamate Meglumine 17.2%,"May 17, 2016","Feb 03, 2016",2016-02-03,2016-05-17,104
+890,Iothalamate Meglumine 17.2%,"Jan 28, 2026","Nov 30, 2022",2022-11-30,2026-01-28,1155
+623,Iothalamate Meglumine Injection,"May 28, 2024","Jan 02, 2020",2020-01-02,2024-05-28,1608
+267,Ioversol Injection,"Sep 20, 2017","Oct 12, 2016",2016-10-12,2017-09-20,343
+733,Ioversol Injection,"Aug 12, 2024","May 19, 2021",2021-05-19,2024-08-12,1181
+422,Ipratropium Bromide Metered-Dose Inhaler,"Jul 09, 2018","May 08, 2018",2018-05-08,2018-07-09,62
+580,Irbesartan Tablets,"Sep 18, 2025","Jul 19, 2019",2019-07-19,2025-09-18,2253
+210,Iron Dextran Injection,"May 17, 2016","Jan 13, 2016",2016-01-13,2016-05-17,125
+408,Iron Dextran Injection,"Jul 17, 2019","Mar 28, 2018",2018-03-28,2019-07-17,476
+825,Iron Dextran Injection,"Aug 14, 2023","Apr 14, 2022",2022-04-14,2023-08-14,487
+1049,Iron Sucrose Injection,"Feb 20, 2025","Mar 25, 2024",2024-03-25,2025-02-20,332
+411,Isocarboxazid Tablets,"Jan 10, 2020","Apr 11, 2018",2018-04-11,2020-01-10,639
+950,Isoniazid Injection,"Sep 29, 2023","May 18, 2023",2023-05-18,2023-09-29,134
+1027,Isoniazid Injection,"Aug 15, 2024","Jan 24, 2024",2024-01-24,2024-08-15,204
+865,Isoniazid Tablets,"Aug 25, 2025","Sep 01, 2022",2022-09-01,2025-08-25,1089
+914,Isradipine Capsules,"Dec 18, 2023","Feb 08, 2023",2023-02-08,2023-12-18,313
+113,Ketorolac Injection,"Sep 03, 2024","Jul 10, 2015",2015-07-10,2024-09-03,3343
+55,Labetalol Injection,"May 26, 2016","Jun 11, 2015",2015-06-11,2016-05-26,350
+286,Labetalol Injection,"Dec 09, 2020","Jan 27, 2017",2017-01-27,2020-12-09,1412
+723,Labetalol Tablets,"Jul 25, 2022","Mar 18, 2021",2021-03-18,2022-07-25,494
+181,Lactated Ringer's Injection,"Jul 26, 2016","Sep 17, 2015",2015-09-17,2016-07-26,313
+361,Lactated Ringer's Injection,"Jan 24, 2019","Nov 01, 2017",2017-11-01,2019-01-24,449
+807,Lactated Ringer's Injection,"Nov 16, 2023","Feb 23, 2022",2022-02-23,2023-11-16,631
+1098,Lactated Ringer's Injection,"Aug 18, 2025","Oct 06, 2024",2024-10-06,2025-08-18,316
+72,Lactated Ringer's Irrigation,"Jan 25, 2023","Jun 16, 2015",2015-06-16,2023-01-25,2780
+1099,Lactated Ringer's Irrigation,"Jul 29, 2025","Oct 06, 2024",2024-10-06,2025-07-29,296
+1145,Lanthanum Carbonate Oral Presentations,"May 14, 2026","Apr 02, 2025",2025-04-02,2026-05-14,407
+507,Latanoprost Ophthalmic Solution,"Jan 30, 2020","Jan 03, 2019",2019-01-03,2020-01-30,392
+92,L-cysteine Hydrochloride Injection,"Sep 08, 2016","Jun 25, 2015",2015-06-25,2016-09-08,441
+178,Leflunomide Tablets,"Nov 11, 2016","Sep 16, 2015",2015-09-16,2016-11-11,422
+1023,Lenalidomide Capsules,"Apr 01, 2026","Jan 11, 2024",2024-01-11,2026-04-01,811
+487,Letermovir Injection,"Jan 17, 2020","Oct 30, 2018",2018-10-30,2020-01-17,444
+575,Letermovir Tablets,"Aug 24, 2019","Jun 13, 2019",2019-06-13,2019-08-24,72
+81,Leuprolide Acetate 14-Day Kit,"Jun 23, 2019","Jun 18, 2015",2015-06-18,2019-06-23,1466
+618,Leuprolide Acetate Long-Acting Suspension for Intramuscular Injection,"Jan 03, 2020","Dec 05, 2019",2019-12-05,2020-01-03,29
+672,Leuprolide Acetate Long-Acting Suspension for Intramuscular Injection,"Aug 15, 2022","Jul 23, 2020",2020-07-23,2022-08-15,753
+583,Levetiracetam Extended-Release Tablets,"Jan 10, 2022","Aug 06, 2019",2019-08-06,2022-01-10,888
+533,Levetiracetam Immediate-Release Tablets,"Apr 15, 2022","Feb 15, 2019",2019-02-15,2022-04-15,1155
+84,Levetiracetam Injection,"Sep 23, 2024","Jun 22, 2015",2015-06-22,2024-09-23,3381
+269,Levocarnitine Oral Tablets and Solution,"Jul 10, 2017","Nov 01, 2016",2016-11-01,2017-07-10,251
+835,Levoleucovorin Injection,"Jul 19, 2024","May 24, 2022",2022-05-24,2024-07-19,787
+849,Levonorgestrel Oral Tablets (Emergency Contraception),"Aug 24, 2022","Jul 08, 2022",2022-07-08,2022-08-24,47
+506,Levothyroxine Sodium Injection,"Aug 06, 2019","Jan 03, 2019",2019-01-03,2019-08-06,215
+804,Levothyroxine Sodium Injection,"May 30, 2025","Feb 16, 2022",2022-02-16,2025-05-30,1199
+184,Lidocaine Hydrochloride and 5% Dextrose Injection,"May 26, 2016","Sep 21, 2015",2015-09-21,2016-05-26,248
+372,Lidocaine Hydrochloride and 5% Dextrose Injection,"Sep 06, 2018","Jan 03, 2018",2018-01-03,2018-09-06,246
+83,Lidocaine Hydrochloride Oral Topical Solution (Viscous) 2%,"May 26, 2016","Jun 18, 2015",2015-06-18,2016-05-26,343
+287,Lidocaine Hydrochloride Oral Topical Solution (Viscous) 2%,"Sep 06, 2017","Feb 07, 2017",2017-02-07,2017-09-06,211
+936,Lidocaine Hydrochloride Oral Topical Solution (Viscous) 2%,"May 21, 2026","Apr 12, 2023",2023-04-12,2026-05-21,1135
+33,Lidocaine Topical 4% Solution,"May 26, 2016","Jun 01, 2015",2015-06-01,2016-05-26,360
+288,Lidocaine Topical 4% Solution,"Oct 08, 2017","Feb 07, 2017",2017-02-07,2017-10-08,243
+98,Lidocaine with Epinephrine Injection,"Sep 22, 2025","Jun 25, 2015",2015-06-25,2025-09-22,3742
+666,Lisinopril Tablets,"Aug 25, 2023","Jun 29, 2020",2020-06-29,2023-08-25,1152
+655,Lithium Oral Solution,"Mar 14, 2025","Apr 27, 2020",2020-04-27,2025-03-14,1782
+386,Lorazepam Oral Solution,"Sep 26, 2018","Jan 31, 2018",2018-01-31,2018-09-26,238
+480,Lorazepam Tablets,"Apr 08, 2026","Oct 04, 2018",2018-10-04,2026-04-08,2743
+572,Losartan Tablets,"Sep 08, 2022","Jun 07, 2019",2019-06-07,2022-09-08,1189
+593,Loxapine Tablets,"Jun 15, 2022","Sep 12, 2019",2019-09-12,2022-06-15,1007
+833,Lutetium Lu 177 Dotatate Injection,"Sep 14, 2022","May 05, 2022",2022-05-05,2022-09-14,132
+859,Magnesium Citrate Oral Solution,"Sep 29, 2025","Aug 03, 2022",2022-08-03,2025-09-29,1153
+137,Mannitol Injection,"Dec 19, 2016","Aug 05, 2015",2015-08-05,2016-12-19,502
+341,Mannitol Injection,"Nov 19, 2019","Aug 16, 2017",2017-08-16,2019-11-19,825
+761,Mannitol Injection,"Jan 31, 2024","Sep 17, 2021",2021-09-17,2024-01-31,866
+1101,Mannitol Injection,"Sep 18, 2025","Oct 09, 2024",2024-10-09,2025-09-18,344
+1104,Mefloquine Hydrochloride Tablets,"Sep 18, 2025","Oct 09, 2024",2024-10-09,2025-09-18,344
+1161,Megestrol Acetate Tablets,"Aug 11, 2026","May 23, 2025",2025-05-23,2026-08-11,445
+525,Melphalan Injection,"Jun 06, 2022","Jan 28, 2019",2019-01-28,2022-06-06,1225
+284,Melphalan Tablets,"Apr 12, 2018","Dec 28, 2016",2016-12-28,2018-04-12,470
+136,Memantine Hydrochloride Extended-Release Capsules,"May 26, 2016","Aug 04, 2015",2015-08-04,2016-05-26,296
+186,Meningococcal Vaccines,"Mar 20, 2017","Sep 21, 2015",2015-09-21,2017-03-20,546
+700,Menotropins - Follicle Stimulating Hormone and Luteinizing Hormone,"Jul 12, 2021","Dec 10, 2020",2020-12-10,2021-07-12,214
+347,Meperidine Hydrochloride Injection,"Apr 16, 2021","Sep 19, 2017",2017-09-19,2021-04-16,1305
+871,Meperidine Hydrochloride Injection,"May 10, 2023","Sep 26, 2022",2022-09-26,2023-05-10,226
+1199,Meperidine Oral Solution,"Jun 02, 2026","Dec 22, 2025",2025-12-22,2026-06-02,162
+331,Mepivacaine Injection,"Jan 08, 2024","Jun 09, 2017",2017-06-09,2024-01-08,2404
+153,Mercaptopurine Tablets,"May 26, 2016","Aug 28, 2015",2015-08-28,2016-05-26,272
+138,Meropenem Injection,"May 17, 2016","Aug 06, 2015",2015-08-06,2016-05-17,285
+475,Meropenem Injection,"Sep 22, 2020","Sep 25, 2018",2018-09-25,2020-09-22,728
+154,Mesna Injection,"May 26, 2016","Aug 28, 2015",2015-08-28,2016-05-26,272
+1040,Mesna Injection,"Aug 12, 2025","Feb 21, 2024",2024-02-21,2025-08-12,538
+730,Metformin Oral Solution,"Sep 24, 2021","May 18, 2021",2021-05-18,2021-09-24,129
+1139,Methadone Hydrochloride Oral Solution,"Aug 06, 2026","Mar 06, 2025",2025-03-06,2026-08-06,518
+358,Methadone Injection,"Jun 07, 2019","Oct 30, 2017",2017-10-30,2019-06-07,585
+635,Methadone Injection,"Feb 23, 2023","Feb 12, 2020",2020-02-12,2023-02-23,1107
+642,Methenamine Hippurate Tablets,"May 04, 2022","Mar 12, 2020",2020-03-12,2022-05-04,783
+423,Methocarbamol Tablets,"Aug 07, 2020","May 08, 2018",2018-05-08,2020-08-07,822
+731,Methohexital Injection,"Nov 03, 2021","May 19, 2021",2021-05-19,2021-11-03,168
+1009,Methohexital Injection,"Dec 27, 2023","Nov 29, 2023",2023-11-29,2023-12-27,28
+1087,Methohexital Injection,"Dec 15, 2024","Sep 17, 2024",2024-09-17,2024-12-15,89
+75,METHOTREXATE INJECTION,"May 26, 2016","Jun 17, 2015",2015-06-17,2016-05-26,344
+282,Methotrexate Injection,"Dec 01, 2021","Dec 16, 2016",2016-12-16,2021-12-01,1811
+912,Methotrexate Injection,"Apr 09, 2026","Feb 02, 2023",2023-02-02,2026-04-09,1162
+1004,Methyldopa Tablets,"Nov 17, 2023","Nov 10, 2023",2023-11-10,2023-11-17,7
+47,Methylene Blue,"Jan 13, 2020","Jun 08, 2015",2015-06-08,2020-01-13,1680
+373,Methylphenidate Extended-Release Oral Suspension and Chewable Tablets,"May 22, 2019","Jan 06, 2018",2018-01-06,2019-05-22,501
+109,Methylphenidate Hydrochloride Chewable Tablets,"Sep 15, 2017","Jul 09, 2015",2015-07-09,2017-09-15,799
+4,Methylphenidate Hydrochloride Extended Release Oral Presentations,"May 17, 2016","May 06, 2015",2015-05-06,2016-05-17,377
+196,Methylphenidate Hydrochloride Transdermal,"Jul 07, 2017","Nov 18, 2015",2015-11-18,2017-07-07,597
+1138,Methylphenidate Transdermal System,"Mar 19, 2026","Feb 28, 2025",2025-02-28,2026-03-19,384
+141,Methylprednisolone Acetate Injection,"Jun 27, 2017","Aug 06, 2015",2015-08-06,2017-06-27,691
+751,Methylprednisolone Acetate Injection,"Aug 08, 2023","Aug 20, 2021",2021-08-20,2023-08-08,718
+216,Methylprednisolone Sodium Succinate Injection,"Sep 26, 2016","Jan 28, 2016",2016-01-28,2016-09-26,242
+338,Metoclopramide Injection,"Sep 24, 2019","Jul 16, 2017",2017-07-16,2019-09-24,800
+747,Metoclopramide Injection,"Jun 05, 2022","Aug 11, 2021",2021-08-11,2022-06-05,298
+134,Metoprolol Injection,"Jul 08, 2016","Jul 29, 2015",2015-07-29,2016-07-08,345
+316,Metronidazole Hydrochloride Injection,"Oct 14, 2020","May 08, 2017",2017-05-08,2020-10-14,1255
+769,Metronidazole Hydrochloride Injection,"Dec 23, 2025","Oct 20, 2021",2021-10-20,2025-12-23,1525
+674,Mexiletine Hydrochloride Capsules,"Apr 16, 2021","Aug 10, 2020",2020-08-10,2021-04-16,249
+36,MIDAZOLAM INJECTION,"May 26, 2016","Jun 02, 2015",2015-06-02,2016-05-26,359
+439,Midodrine Tablets,"Oct 09, 2019","Jun 13, 2018",2018-06-13,2019-10-09,483
+1014,Midostaurin Capsules,"Apr 29, 2024","Dec 13, 2023",2023-12-13,2024-04-29,138
+32,Milrinone Injection,"May 17, 2016","Jun 01, 2015",2015-06-01,2016-05-17,351
+435,Mineral Oil and Petrolatum Ophthalmic Ointment,"Nov 05, 2021","Jun 06, 2018",2018-06-06,2021-11-05,1248
+1007,Minoxidil 2.5 mg Tablets,"Nov 26, 2025","Nov 28, 2023",2023-11-28,2025-11-26,729
+697,Misoprostol Tablets,"Sep 07, 2022","Nov 25, 2020",2020-11-25,2022-09-07,651
+463,Mitomycin Kit for Ophthalmic Use,"Oct 09, 2018","Aug 29, 2018",2018-08-29,2018-10-09,41
+189,Mitoxantrone Hydrochloride Injection,"Nov 14, 2019","Sep 24, 2015",2015-09-24,2019-11-14,1512
+1168,Mometasone Furoate Aerosol for Oral Inhalation,"Mar 31, 2026","Jul 29, 2025",2025-07-29,2026-03-31,245
+1175,Mometasone Furoate and Formoterol Fumarate Inhalation Aerosol,"Mar 31, 2026","Aug 29, 2025",2025-08-29,2026-03-31,214
+187,Mometasone Furoate Monohydrate Nasal Spray,"May 26, 2016","Sep 23, 2015",2015-09-23,2016-05-26,246
+1026,Mometasone Furoate Oral Inhalers,"Oct 07, 2024","Jan 18, 2024",2024-01-18,2024-10-07,263
+203,Morphine PCA Vials,"Aug 01, 2016","Dec 10, 2015",2015-12-10,2016-08-01,235
+436,Morphine PCA Vials,"Aug 15, 2022","Jun 08, 2018",2018-06-08,2022-08-15,1529
+905,Morphine PCA Vials,"Aug 28, 2023","Jan 17, 2023",2023-01-17,2023-08-28,223
+1121,Morphine Sulfate Extended-Release Tablets,"Nov 04, 2025","Dec 12, 2024",2024-12-12,2025-11-04,327
+504,Morphine Sulfate Immediate-Release Tablets,"Sep 23, 2019","Dec 20, 2018",2018-12-20,2019-09-23,277
+357,Moxifloxacin Injection,"Sep 25, 2018","Oct 30, 2017",2017-10-30,2018-09-25,330
+389,Multiple Electrolytes Large Volume Solutions for Injection,"Mar 20, 2019","Feb 01, 2018",2018-02-01,2019-03-20,412
+748,Multiple Electrolytes Large Volume Solutions for Injection,"May 04, 2022","Aug 18, 2021",2021-08-18,2022-05-04,259
+392,Multiple Vitamin Oral Liquid,"Aug 08, 2018","Feb 07, 2018",2018-02-07,2018-08-08,182
+69,Multiple Vitamins for Infusion,"Aug 11, 2023","Jun 16, 2015",2015-06-16,2023-08-11,2978
+162,Mupirocin Calcium 2% Cream,"Jul 14, 2020","Sep 04, 2015",2015-09-04,2020-07-14,1775
+448,Mycophenolate Mofetil Capsules and Tablets,"Aug 15, 2022","Jul 26, 2018",2018-07-26,2022-08-15,1481
+1047,Nafcillin Sodium Injection,"May 23, 2025","Mar 20, 2024",2024-03-20,2025-05-23,429
+258,Nalbuphine Injection,"Jan 31, 2017","Aug 30, 2016",2016-08-30,2017-01-31,154
+409,Nalbuphine Injection,"Dec 01, 2018","Apr 05, 2018",2018-04-05,2018-12-01,240
+599,Nalbuphine Injection,"Sep 01, 2021","Oct 01, 2019",2019-10-01,2021-09-01,701
+1034,Naltrexone Tablets,"Mar 13, 2026","Feb 07, 2024",2024-02-07,2026-03-13,765
+177,Nebivolol Tablets,"May 26, 2016","Sep 16, 2015",2015-09-16,2016-05-26,253
+679,Nefazodone Tablets,"Jan 26, 2022","Sep 14, 2020",2020-09-14,2022-01-26,499
+458,Nelarabine Injection,"Oct 22, 2019","Aug 23, 2018",2018-08-23,2019-10-22,425
+1143,Nelarabine Injection,"Jun 23, 2025","Mar 17, 2025",2025-03-17,2025-06-23,98
+543,Nelfinavir Mesylate Tablets,"Jul 09, 2019","Mar 06, 2019",2019-03-06,2019-07-09,125
+190,Neomycin and Polymyxin B Sulfates and Dexamethasone Ophthalmic Ointment,"Jul 08, 2016","Sep 30, 2015",2015-09-30,2016-07-08,282
+645,Neomycin and Polymyxin B Sulfates and Dexamethasone Ophthalmic Ointment,"Mar 30, 2022","Mar 17, 2020",2020-03-17,2022-03-30,743
+621,Neomycin and Polymyxin B Sulfates Genitourinary Irrigant,"Sep 06, 2022","Dec 16, 2019",2019-12-16,2022-09-06,995
+729,Neomycin Sulfate Tablets,"Sep 07, 2023","May 14, 2021",2021-05-14,2023-09-07,846
+29,Nicardipine Hydrochloride Injection,"May 26, 2016","Jun 01, 2015",2015-06-01,2016-05-26,360
+574,Nicardipine Hydrochloride Injection,"Jun 19, 2020","Jun 13, 2019",2019-06-13,2020-06-19,372
+686,Nicardipine Hydrochloride Injection,"Dec 15, 2020","Oct 07, 2020",2020-10-07,2020-12-15,69
+110,Nimodipine Oral Solution,"May 26, 2016","Jul 09, 2015",2015-07-09,2016-05-26,322
+614,Nimodipine Oral Solution,"May 26, 2020","Nov 21, 2019",2019-11-21,2020-05-26,187
+999,Nirsevimab-alip Intramuscular Injection (Beyfortus),"Apr 01, 2024","Oct 23, 2023",2023-10-23,2024-04-01,161
+433,Nitrofurantoin Oral Suspension,"May 20, 2026","Jun 05, 2018",2018-06-05,2026-05-20,2906
+289,Nitroglycerin Injection,"Aug 12, 2018","Feb 09, 2017",2017-02-09,2018-08-12,549
+626,Nitroglycerin Injection,"Dec 15, 2020","Jan 10, 2020",2020-01-10,2020-12-15,340
+984,Nitroglycerin Injection,"Dec 31, 2025","Aug 24, 2023",2023-08-24,2025-12-31,860
+634,Nizatidine Capsules,"Mar 10, 2023","Feb 12, 2020",2020-02-12,2023-03-10,1122
+292,Norepinephrine Bitartrate Injection,"Jun 07, 2022","Feb 09, 2017",2017-02-09,2022-06-07,1944
+500,Nystatin Oral Suspension,"Dec 09, 2019","Dec 10, 2018",2018-12-10,2019-12-09,364
+1066,Nystatin Oral Suspension,"Jun 23, 2025","Jun 21, 2024",2024-06-21,2025-06-23,367
+979,Nystatin Topical Powder,"May 22, 2024","Aug 18, 2023",2023-08-18,2024-05-22,278
+229,Octreotide Injection,"Jul 03, 2024","Mar 15, 2016",2016-03-15,2024-07-03,3032
+1033,Octreotide Intramuscular Injection Kits,"Apr 11, 2024","Feb 05, 2024",2024-02-05,2024-04-11,66
+236,Ofloxacin Ophthalmic Solution,"Feb 12, 2018","Apr 25, 2016",2016-04-25,2018-02-12,658
+898,Ofloxacin Ophthalmic Solution,"Feb 03, 2025","Dec 22, 2022",2022-12-22,2025-02-03,774
+90,Ofloxacin Otic Solution,"Jul 28, 2016","Jun 25, 2015",2015-06-25,2016-07-28,399
+228,Olanzapine Injection,"Jan 24, 2017","Mar 14, 2016",2016-03-14,2017-01-24,316
+304,Olanzapine Intramuscular Injection,"Sep 28, 2017","Mar 28, 2017",2017-03-28,2017-09-28,184
+492,Olanzapine Intramuscular Injection,"Mar 13, 2020","Nov 12, 2018",2018-11-12,2020-03-13,487
+781,Olanzapine Intramuscular Injection,"Dec 04, 2024","Nov 23, 2021",2021-11-23,2024-12-04,1107
+1028,Olanzapine Pamoate Extended Release Suspension for Injection,"Apr 09, 2024","Jan 30, 2024",2024-01-30,2024-04-09,70
+405,Ondansetron Hydrochloride Injection,"Jan 21, 2025","Mar 08, 2018",2018-03-08,2025-01-21,2511
+99,Ondansetron Injection,"May 22, 2017","Jun 26, 2015",2015-06-26,2017-05-22,696
+268,Orphenadrine Citrate Injection,"Feb 16, 2017","Oct 17, 2016",2016-10-17,2017-02-16,122
+471,Orphenadrine Citrate Injection,"Dec 04, 2019","Sep 17, 2018",2018-09-17,2019-12-04,443
+928,Orphenadrine Citrate Injection,"Aug 14, 2023","Mar 21, 2023",2023-03-21,2023-08-14,146
+1071,Orphenadrine Citrate Injection,"Aug 12, 2025","Jul 16, 2024",2024-07-16,2025-08-12,392
+383,Oseltamivir Oral Suspension,"May 29, 2018","Jan 27, 2018",2018-01-27,2018-05-29,122
+256,Oxacillin Injection,"Aug 07, 2017","Aug 30, 2016",2016-08-30,2017-08-07,342
+377,Oxacillin Sodium Injection,"Jan 31, 2019","Jan 12, 2018",2018-01-12,2019-01-31,384
+1187,Oxacillin Sodium Injection,"Jul 01, 2026","Nov 04, 2025",2025-11-04,2026-07-01,239
+1001,Oxymorphone Immediate-Release Tablets,"Aug 06, 2025","Oct 24, 2023",2023-10-24,2025-08-06,652
+31,Oxytocin Injection,"Jun 12, 2017","Jun 01, 2015",2015-06-01,2017-06-12,742
+608,Oxytocin Injection,"May 11, 2020","Nov 07, 2019",2019-11-07,2020-05-11,186
+869,Oxytocin Injection,"Jul 26, 2023","Sep 13, 2022",2022-09-13,2023-07-26,316
+880,Paclitaxel Injection,"Dec 22, 2025","Oct 31, 2022",2022-10-31,2025-12-22,1148
+760,Paclitaxel Protein-Bound Injection,"Sep 04, 2022","Sep 16, 2021",2021-09-16,2022-09-04,353
+941,Paclitaxel Protein-Bound Injection,"Apr 28, 2023","Apr 27, 2023",2023-04-27,2023-04-28,1
+919,Palifermin Injection,"Dec 27, 2023","Feb 27, 2023",2023-02-27,2023-12-27,303
+402,Pamidronate Disodium Injection,"Dec 03, 2018","Mar 02, 2018",2018-03-02,2018-12-03,276
+983,Pamidronate Disodium Injection,"Sep 23, 2024","Aug 24, 2023",2023-08-24,2024-09-23,396
+66,Pancuronium Injection,"May 26, 2016","Jun 11, 2015",2015-06-11,2016-05-26,350
+20,Pantoprazole Injection,"May 17, 2016","May 29, 2015",2015-05-29,2016-05-17,354
+326,Pantoprazole injection,"Jul 09, 2024","May 26, 2017",2017-05-26,2024-07-09,2601
+327,Pantoprazole Injection,"May 23, 2018","Jun 01, 2017",2017-06-01,2018-05-23,356
+125,Pantoprazole Tablets,"May 26, 2016","Jul 22, 2015",2015-07-22,2016-05-26,309
+310,Papaverine Injection,"Oct 02, 2017","Apr 30, 2017",2017-04-30,2017-10-02,155
+1180,Paricalcitol Capsules,"Jan 28, 2026","Oct 06, 2025",2025-10-06,2026-01-28,114
+951,Paromomycin Sulfate Oral Capsules,"May 19, 2023","May 19, 2023",2023-05-19,2023-05-19,0
+202,PCA Sterile Empty Vials and Injector,"May 17, 2016","Dec 10, 2015",2015-12-10,2016-05-17,159
+493,PCA Sterile Empty Vials and Injector,"Jan 13, 2020","Nov 16, 2018",2018-11-16,2020-01-13,423
+1109,PCA Sterile Empty Vials and Injector,"Oct 29, 2024","Oct 23, 2024",2024-10-23,2024-10-29,6
+1090,Pegfilgrastim-cbqv Injection,"May 13, 2025","Sep 25, 2024",2024-09-25,2025-05-13,230
+1125,Peginterferon Alfa-2a Injection,"Sep 04, 2026","Jan 08, 2025",2025-01-08,2026-09-04,604
+379,Penicillamine,"Nov 13, 2019","Jan 12, 2018",2018-01-12,2019-11-13,670
+232,Penicillin G Benzathine,"Dec 18, 2017","Mar 30, 2016",2016-03-30,2017-12-18,628
+263,Penicillin G Benzathine / Penicillin G Procaine,"May 25, 2018","Sep 13, 2016",2016-09-13,2018-05-25,619
+853,Penicillin G Sodium Injection,"Dec 06, 2022","Jul 14, 2022",2022-07-14,2022-12-06,145
+949,Penicillin V Potassium Oral Presentations,"May 08, 2026","May 17, 2023",2023-05-17,2026-05-08,1087
+212,"Pentacel- Diphtheria, Tetanus Toxoid, and Acellular Pertussis and Inactivated Poliovirus and Haemophilus B Conjugate Vaccine (DTaP-IPV/Hib)","Dec 19, 2016","Jan 14, 2016",2016-01-14,2016-12-19,340
+513,Pentamidine Isethionate,"Feb 25, 2019","Jan 08, 2019",2019-01-08,2019-02-25,48
+584,Pentamidine Isethionate,"Dec 10, 2020","Aug 06, 2019",2019-08-06,2020-12-10,492
+474,Pentostatin Injection,"Jan 17, 2019","Sep 25, 2018",2018-09-25,2019-01-17,114
+845,Pentostatin Injection,"Aug 11, 2022","Jun 24, 2022",2022-06-24,2022-08-11,48
+892,Pentostatin Injection,"Feb 01, 2023","Dec 07, 2022",2022-12-07,2023-02-01,56
+1105,Peritoneal Dialysis Solution,"Jul 29, 2025","Oct 12, 2024",2024-10-12,2025-07-29,290
+105,Phenazopyridine Hydrochloride,"Aug 06, 2016","Jul 01, 2015",2015-07-01,2016-08-06,402
+710,Phenelzine Sulfate Tablets,"Jul 21, 2021","Jan 26, 2021",2021-01-26,2021-07-21,176
+276,Phenobarbital Injection,"Feb 15, 2017","Nov 29, 2016",2016-11-29,2017-02-15,78
+821,Phenobarbital Injection,"Nov 15, 2022","Apr 06, 2022",2022-04-06,2022-11-15,223
+191,Phentolamine Mesylate for Injection,"May 26, 2016","Oct 08, 2015",2015-10-08,2016-05-26,231
+1129,Phentolamine Mesylate for Injection,"May 27, 2025","Jan 31, 2025",2025-01-31,2025-05-27,116
+939,Phenylephrine Ophthalmic Solution,"Aug 25, 2025","Apr 26, 2023",2023-04-26,2025-08-25,852
+1160,Phenytoin Oral Suspension,"Jan 06, 2026","May 21, 2025",2025-05-21,2026-01-06,230
+198,Phenytoin Sodium Injection,"Sep 27, 2016","Dec 02, 2015",2015-12-02,2016-09-27,300
+406,Phenytoin Sodium Injection,"Sep 03, 2019","Mar 19, 2018",2018-03-19,2019-09-03,533
+678,Phenytoin Sodium Injection,"Jul 15, 2021","Sep 14, 2020",2020-09-14,2021-07-15,304
+897,Phenytoin Sodium Injection,"Mar 05, 2026","Dec 20, 2022",2022-12-20,2026-03-05,1171
+532,Physostigmine Salicylate Injection,"Nov 08, 2019","Feb 15, 2019",2019-02-15,2019-11-08,266
+1137,Pimecrolimus 1% Topical Cream,"May 19, 2026","Feb 28, 2025",2025-02-28,2026-05-19,445
+158,Piperacillin and Tazobactam Injection,"Sep 22, 2020","Aug 31, 2015",2015-08-31,2020-09-22,1849
+219,Piroxicam Capsules,"May 17, 2016","Feb 03, 2016",2016-02-03,2016-05-17,104
+966,Podofilox topical gel,"Apr 17, 2024","Jul 03, 2023",2023-07-03,2024-04-17,289
+222,Poliovirus Vaccine Inactivated,"Jan 09, 2017","Feb 10, 2016",2016-02-10,2017-01-09,334
+688,Polyethylene Glycol 3350 With Electrolytes,"Dec 21, 2022","Oct 23, 2020",2020-10-23,2022-12-21,789
+931,Polymyxin B and Trimethoprim Sulfates Ophthalmic Solution,"Nov 09, 2024","Mar 31, 2023",2023-03-31,2024-11-09,589
+451,Polyvinyl Alcohol (Artificial Tears) Ophthalmic Solution,"May 06, 2024","Aug 09, 2018",2018-08-09,2024-05-06,2097
+706,Posaconazole Injection,"Apr 01, 2021","Dec 28, 2020",2020-12-28,2021-04-01,94
+789,Posaconazole Injection,"Apr 25, 2022","Jan 04, 2022",2022-01-04,2022-04-25,111
+1197,Posaconazole Injection,"Dec 19, 2025","Dec 18, 2025",2025-12-18,2025-12-19,1
+56,Posaconazole Oral Suspension,"May 26, 2016","Jun 11, 2015",2015-06-11,2016-05-26,350
+206,Potassium Acetate Injection,"Feb 27, 2017","Dec 30, 2015",2015-12-30,2017-02-27,425
+344,Potassium Acetate Injection,"Oct 09, 2020","Sep 06, 2017",2017-09-06,2020-10-09,1129
+755,Potassium Acetate Injection,"Nov 18, 2024","Sep 01, 2021",2021-09-01,2024-11-18,1174
+1102,Potassium Chloride in Large Volume for Injection,"Jul 29, 2025","Oct 09, 2024",2024-10-09,2025-07-29,293
+12,Potassium Chloride Injection,"May 30, 2019","May 21, 2015",2015-05-21,2019-05-30,1470
+753,Potassium Chloride Injection,"May 15, 2024","Aug 31, 2021",2021-08-31,2024-05-15,988
+589,Potassium Iodide and Iodine (Lugol's Solution or Strong Iodine Solution) 14 mL bottles,"Dec 04, 2019","Sep 03, 2019",2019-09-03,2019-12-04,92
+985,Potassium Iodide and Iodine (Lugol's Solution or Strong Iodine Solution) 14 mL bottles,"Nov 07, 2025","Aug 25, 2023",2023-08-25,2025-11-07,805
+305,Potassium Phosphate Injection,"Sep 23, 2019","Mar 31, 2017",2017-03-31,2019-09-23,906
+756,Potassium Phosphate Injection,"Feb 19, 2026","Sep 01, 2021",2021-09-01,2026-02-19,1632
+94,Pramipexole Dihydrochloride Tablets,"May 17, 2016","Jun 25, 2015",2015-06-25,2016-05-17,327
+536,Prednisolone Acetate 1% Ophthalmic Suspension,"Jan 24, 2025","Feb 21, 2019",2019-02-21,2025-01-24,2164
+620,Prednisolone Oral Solution,"Aug 06, 2020","Dec 13, 2019",2019-12-13,2020-08-06,237
+563,Prednisone Oral Tablets,"Jul 22, 2026","May 15, 2019",2019-05-15,2026-07-22,2625
+250,Procainamide Hydrochloride Injection,"Feb 14, 2017","Aug 01, 2016",2016-08-01,2017-02-14,197
+312,Procainamide Hydrochloride Injection,"Apr 25, 2018","May 02, 2017",2017-05-02,2018-04-25,358
+469,Procainamide Hydrochloride Injection,"Jan 15, 2019","Sep 12, 2018",2018-09-12,2019-01-15,125
+192,Prochlorperazine Edisylate Injection,"Aug 01, 2016","Oct 13, 2015",2015-10-13,2016-08-01,293
+549,Prochlorperazine Maleate Tablets,"Dec 12, 2022","Mar 22, 2019",2019-03-22,2022-12-12,1361
+1010,Progesterone Capsules,"Oct 01, 2025","Dec 05, 2023",2023-12-05,2025-10-01,666
+381,Progesterone Injection,"Nov 15, 2019","Jan 24, 2018",2018-01-24,2019-11-15,660
+1044,Progesterone Vaginal Insert,"Sep 12, 2024","Mar 04, 2024",2024-03-04,2024-09-12,192
+22,Promethazine Injection,"Mar 01, 2018","Jun 01, 2015",2015-06-01,2018-03-01,1004
+460,Promethazine Injection,"Jun 02, 2021","Aug 27, 2018",2018-08-27,2021-06-02,1010
+489,Proparacaine Hydrochloride Ophthalmic Solution,"Jul 17, 2019","Nov 06, 2018",2018-11-06,2019-07-17,253
+935,Propranolol Hydrochloride Injection,"Aug 31, 2026","Apr 10, 2023",2023-04-10,2026-08-31,1239
+1135,Propranolol Hydrochloride Oral Solution,"Aug 31, 2026","Feb 25, 2025",2025-02-25,2026-08-31,552
+103,Propranolol Hydrochloride Tablets,"Sep 09, 2016","Jul 01, 2015",2015-07-01,2016-09-09,436
+45,Propranolol Injection,"Aug 01, 2016","Jun 08, 2015",2015-06-08,2016-08-01,420
+453,Protamine Injection,"Nov 19, 2018","Aug 15, 2018",2018-08-15,2018-11-19,96
+586,Protamine Sulfate Injection,"Sep 23, 2019","Aug 19, 2019",2019-08-19,2019-09-23,35
+719,Protamine Sulfate Injection,"Aug 01, 2022","Mar 02, 2021",2021-03-02,2022-08-01,517
+957,Protamine Sulfate Injection,"Dec 27, 2023","May 31, 2023",2023-05-31,2023-12-27,210
+404,Prothrombin Complex Concentrate (Kcentra),"Oct 04, 2018","Mar 02, 2018",2018-03-02,2018-10-04,216
+1131,Pyridostigmine Bromide Extended-Release Tablets,"Sep 17, 2025","Feb 07, 2025",2025-02-07,2025-09-17,222
+450,Pyridoxine Hydrochloride Injection,"Jan 18, 2019","Aug 02, 2018",2018-08-02,2019-01-18,169
+671,Pyridoxine Hydrochloride Injection,"Jan 10, 2022","Jul 22, 2020",2020-07-22,2022-01-10,537
+899,Quinapril Tablets,"Apr 10, 2026","Jan 03, 2023",2023-01-03,2026-04-10,1193
+591,Rabies Immune Globulin,"Dec 18, 2019","Sep 11, 2019",2019-09-11,2019-12-18,98
+298,Rabies Vaccine,"Sep 28, 2017","Mar 03, 2017",2017-03-03,2017-09-28,209
+594,Rabies Vaccine,"Dec 20, 2019","Sep 16, 2019",2019-09-16,2019-12-20,95
+867,Racepinephrine Inhalation Solution,"Nov 04, 2022","Sep 09, 2022",2022-09-09,2022-11-04,56
+923,Racepinephrine Inhalation Solution,"Aug 04, 2023","Mar 10, 2023",2023-03-10,2023-08-04,147
+152,Ranitidine Injection,"Mar 21, 2017","Aug 28, 2015",2015-08-28,2017-03-21,571
+427,Recombinant Zoster Vaccine (Shingrix),"Sep 02, 2020","May 17, 2018",2018-05-17,2020-09-02,839
+371,Remifentanil Injection,"Sep 09, 2019","Jan 02, 2018",2018-01-02,2019-09-09,615
+144,Reteplase Injection,"Jun 11, 2019","Aug 12, 2015",2015-08-12,2019-06-11,1399
+1022,Rho(D) Immune Globulin (Human),"Sep 11, 2025","Jan 10, 2024",2024-01-10,2025-09-11,610
+815,Rifampin Capsules,"Oct 28, 2022","Mar 14, 2022",2022-03-14,2022-10-28,228
+713,Rifampin Injection,"May 26, 2021","Feb 11, 2021",2021-02-11,2021-05-26,104
+786,Rifampin Injection,"May 02, 2023","Dec 28, 2021",2021-12-28,2023-05-02,490
+779,Rifapentine Tablets,"May 02, 2023","Nov 17, 2021",2021-11-17,2023-05-02,531
+1134,Rifapentine Tablets,"Jul 25, 2025","Feb 25, 2025",2025-02-25,2025-07-25,150
+864,Rifaximin Tablets,"Jul 31, 2023","Aug 24, 2022",2022-08-24,2023-07-31,341
+526,RimabotulintoxinB Intramuscular Injection,"Nov 01, 2019","Jan 31, 2019",2019-01-31,2019-11-01,274
+959,Rivaroxaban Oral Suspension,"Aug 02, 2023","Jun 14, 2023",2023-06-14,2023-08-02,49
+38,Rocuronium Bromide Injection,"May 26, 2016","Jun 02, 2015",2015-06-02,2016-05-26,359
+473,Rosuvastatin Calcium Tablets,"Aug 21, 2019","Sep 19, 2018",2018-09-19,2019-08-21,336
+259,Scopolamine Transdermal System,"May 08, 2018","Aug 31, 2016",2016-08-31,2018-05-08,615
+442,Scopolamine Transdermal System,"Nov 20, 2019","Jul 17, 2018",2018-07-17,2019-11-20,491
+1165,Scopolamine Transdermal System,"May 11, 2026","Jun 09, 2025",2025-06-09,2026-05-11,336
+18,Secretin Injection,"May 26, 2016","May 28, 2015",2015-05-28,2016-05-26,364
+308,Selenium Injection (as Selenious Acid),"Jul 09, 2019","Apr 30, 2017",2017-04-30,2019-07-09,800
+813,Semaglutide Injection,"Mar 05, 2025","Mar 11, 2022",2022-03-11,2025-03-05,1090
+663,Sertraline Hydrochloride Oral Solution,"Jun 07, 2021","Jun 04, 2020",2020-06-04,2021-06-07,368
+660,Sertraline Oral Tablets,"Mar 21, 2022","May 18, 2020",2020-05-18,2022-03-21,672
+1084,Silver Nitrate Solution,"Dec 04, 2024","Sep 12, 2024",2024-09-12,2024-12-04,83
+632,Simethicone Oral Liquid,"Jun 11, 2021","Feb 03, 2020",2020-02-03,2021-06-11,494
+17,Sincalide Injection,"May 26, 2016","May 28, 2015",2015-05-28,2016-05-26,364
+277,Sincalide Injection,"Nov 20, 2019","Dec 05, 2016",2016-12-05,2019-11-20,1080
+715,Sincalide Injection,"Jul 07, 2023","Feb 17, 2021",2021-02-17,2023-07-07,870
+207,Sodium Acetate Injection,"Feb 23, 2017","Dec 30, 2015",2015-12-30,2017-02-23,421
+317,Sodium Acetate Injection,"Jun 08, 2020","May 10, 2017",2017-05-10,2020-06-08,1125
+754,Sodium Acetate Injection,"Jun 26, 2025","Sep 01, 2021",2021-09-01,2025-06-26,1394
+106,Sodium Bicarbonate Injection,"Nov 07, 2016","Jul 01, 2015",2015-07-01,2016-11-07,495
+791,Sodium Chloride Inhalation Solution,"Aug 31, 2022","Jan 06, 2022",2022-01-06,2022-08-31,237
+893,Sodium Ferric Gluconate Complex,"Jun 24, 2025","Dec 09, 2022",2022-12-09,2025-06-24,928
+1174,Sodium Ferric Gluconate Complex,"Apr 09, 2026","Aug 26, 2025",2025-08-26,2026-04-09,226
+481,Sodium Fluoride Chewable Tablets,"May 03, 2019","Oct 08, 2018",2018-10-08,2019-05-03,207
+208,Sodium Nitroprusside Injection,"Oct 11, 2017","Dec 30, 2015",2015-12-30,2017-10-11,651
+227,Sodium Phosphate Injection,"Dec 09, 2020","Mar 10, 2016",2016-03-10,2020-12-09,1735
+752,Sodium Phosphate Injection,"Oct 06, 2024","Aug 23, 2021",2021-08-23,2024-10-06,1140
+430,Sodium Polystyrene Sulfonate Oral or Rectal Suspension,"May 05, 2021","Jun 01, 2018",2018-06-01,2021-05-05,1069
+523,Sodium Polystyrene Sulfonate Powder,"Dec 08, 2020","Jan 22, 2019",2019-01-22,2020-12-08,686
+669,Somatropin Injection,"Dec 08, 2020","Jul 13, 2020",2020-07-13,2020-12-08,148
+888,Somatropin Injection,"Dec 18, 2025","Nov 22, 2022",2022-11-22,2025-12-18,1122
+447,Spironolactone Tablets,"Sep 11, 2019","Jul 26, 2018",2018-07-26,2019-09-11,412
+145,Sterile Empty Vials,"Mar 07, 2017","Aug 12, 2015",2015-08-12,2017-03-07,573
+690,Sterile Mineral Oil,"Mar 21, 2022","Oct 28, 2020",2020-10-28,2022-03-21,509
+260,Sterile Talc,"Mar 18, 2022","Aug 31, 2016",2016-08-31,2022-03-18,2025
+790,Sterile Water for Injection - Large Volume Bags,"Feb 05, 2024","Jan 04, 2022",2022-01-04,2024-02-05,762
+375,Sterile Water for Injection - Small Volume Vials,"May 18, 2025","Jan 06, 2018",2018-01-06,2025-05-18,2689
+122,Sterile Water for Injection Large Volume Bags,"May 26, 2016","Jul 22, 2015",2015-07-22,2016-05-26,309
+368,Sterile Water for Injection Large Volume Bags,"Jan 24, 2019","Dec 20, 2017",2017-12-20,2019-01-24,400
+185,Sterile Water for Irrigation,"May 26, 2016","Sep 21, 2015",2015-09-21,2016-05-26,248
+717,Succimer Capsules,"Oct 08, 2021","Feb 22, 2021",2021-02-22,2021-10-08,228
+174,Succinylcholine Injection,"May 26, 2016","Sep 16, 2015",2015-09-16,2016-05-26,253
+311,Succinylcholine Injection,"Dec 04, 2017","Apr 30, 2017",2017-04-30,2017-12-04,218
+878,Sucralfate Tablets,"Nov 05, 2025","Oct 28, 2022",2022-10-28,2025-11-05,1104
+149,Sufentanil Injection,"Feb 13, 2017","Aug 19, 2015",2015-08-19,2017-02-13,544
+376,Sufentanil Injection,"Jan 22, 2021","Jan 12, 2018",2018-01-12,2021-01-22,1106
+831,Sufentanil Injection,"Feb 07, 2025","May 04, 2022",2022-05-04,2025-02-07,1010
+1150,Sufentanil Injection,"Aug 05, 2025","Apr 15, 2025",2025-04-15,2025-08-05,112
+1185,Sufentanil Injection,"Dec 10, 2025","Nov 03, 2025",2025-11-03,2025-12-10,37
+991,Sulfacetamide Sodium and Prednisolone Sodium Phosphate Ophthalmic Solution,"Jul 03, 2024","Sep 21, 2023",2023-09-21,2024-07-03,286
+562,Sulfanilamide Cream,"Jun 18, 2019","May 13, 2019",2019-05-13,2019-06-18,36
+625,Sulfasalazine Enteric-Coated and Immediate-Release Tablets,"May 28, 2025","Jan 08, 2020",2020-01-08,2025-05-28,1967
+204,Sumatriptan Nasal Spray,"Sep 09, 2016","Dec 16, 2015",2015-12-16,2016-09-09,268
+70,Tacrolimus Capsules,"May 26, 2016","Jun 16, 2015",2015-06-16,2016-05-26,345
+567,Tacrolimus Capsules,"May 17, 2021","Jun 04, 2019",2019-06-04,2021-05-17,713
+595,Tacrolimus Extended-Release Capsules and Tablets,"Aug 27, 2020","Sep 18, 2019",2019-09-18,2020-08-27,344
+588,Tacrolimus Injection,"Aug 27, 2020","Aug 30, 2019",2019-08-30,2020-08-27,363
+183,Tamsulosin Hydrochloride,"Jul 21, 2016","Sep 17, 2015",2015-09-17,2016-07-21,308
+975,Tedizolid Injection,"Oct 02, 2023","Aug 04, 2023",2023-08-04,2023-10-02,59
+963,Tedizolid Oral Tablets,"Oct 02, 2023","Jun 26, 2023",2023-06-26,2023-10-02,98
+606,Telmisartan Tablets,"Sep 07, 2021","Oct 23, 2019",2019-10-23,2021-09-07,685
+503,Temazepam Capsules,"Apr 11, 2023","Dec 14, 2018",2018-12-14,2023-04-11,1579
+712,Teprotumumab-trbw Injection,"Apr 12, 2021","Feb 10, 2021",2021-02-10,2021-04-12,61
+868,Terbutaline Sulfate Injection,"Nov 08, 2023","Sep 12, 2022",2022-09-12,2023-11-08,422
+1126,Terbutaline Sulfate Injection,"Apr 09, 2026","Jan 21, 2025",2025-01-21,2026-04-09,443
+965,Testosterone 2% Topical Gel,"Oct 19, 2023","Jun 29, 2023",2023-06-29,2023-10-19,112
+15,Testosterone Cypionate Injection,"Nov 06, 2016","May 27, 2015",2015-05-27,2016-11-06,529
+498,Testosterone Enanthate Intramuscular Injection,"Jun 04, 2021","Dec 07, 2018",2018-12-07,2021-06-04,910
+643,Testosterone Pellets for Subcutaneous Implantation,"Dec 10, 2020","Mar 13, 2020",2020-03-13,2020-12-10,272
+283,Tetanus and Diphtheria Toxoids Adsorbed (Td),"Sep 13, 2017","Dec 19, 2016",2016-12-19,2017-09-13,268
+245,Tetracaine Hydrochloride Ophthalmic Drops,"Sep 08, 2024","Jun 07, 2016",2016-06-07,2024-09-08,3015
+205,Theophylline 12-Hour Extended-Release Tablets,"May 16, 2019","Dec 16, 2015",2015-12-16,2019-05-16,1247
+387,Thiamine Injection,"Jul 06, 2018","Feb 01, 2018",2018-02-01,2018-07-06,155
+502,Thiamine Injection,"Jun 02, 2021","Dec 13, 2018",2018-12-13,2021-06-02,902
+792,Thiamine Injection,"Feb 22, 2023","Jan 12, 2022",2022-01-12,2023-02-22,406
+117,Thiotepa for Injection,"May 14, 2018","Jul 13, 2015",2015-07-13,2018-05-14,1036
+418,Thiothixene Capsules,"Jun 23, 2019","Apr 27, 2018",2018-04-27,2019-06-23,422
+499,Thrombin Topical Powder (Recombinant),"Jan 21, 2020","Dec 07, 2018",2018-12-07,2020-01-21,410
+124,Thrombin Topical Solution (Bovine),"Jan 06, 2017","Jul 22, 2015",2015-07-22,2017-01-06,534
+479,Thrombin Topical Solution (Bovine),"May 11, 2020","Oct 02, 2018",2018-10-02,2020-05-11,587
+201,Tigecycline Injection,"Aug 04, 2017","Dec 09, 2015",2015-12-09,2017-08-04,604
+664,Timolol Ophthalmic Solution,"Sep 02, 2023","Jun 04, 2020",2020-06-04,2023-09-02,1185
+571,Tirofiban Hydrochloride Injection,"Oct 25, 2019","Jun 06, 2019",2019-06-06,2019-10-25,141
+894,Tirzepatide Injection,"Apr 17, 2023","Dec 13, 2022",2022-12-13,2023-04-17,125
+972,Tirzepatide Injection,"Mar 05, 2025","Jul 20, 2023",2023-07-20,2025-03-05,594
+164,Tobramycin Sulfate Injection,"Jun 05, 2019","Sep 04, 2015",2015-09-04,2019-06-05,1370
+649,Tobramycin Sulfate Lyophilized Powder for Solution,"Apr 12, 2021","Mar 25, 2020",2020-03-25,2021-04-12,383
+744,Tocilizumab Injection,"Jul 29, 2022","Aug 03, 2021",2021-08-03,2022-07-29,360
+335,Tolmetin Capsules and Tablets,"Jan 16, 2018","Jul 07, 2017",2017-07-07,2018-01-16,193
+302,Topotecan capsules,"Oct 06, 2017","Mar 20, 2017",2017-03-20,2017-10-06,200
+993,Topotecan Capsules,"Jul 11, 2024","Sep 26, 2023",2023-09-26,2024-07-11,289
+1032,Topotecan Injection,"Oct 08, 2024","Feb 05, 2024",2024-02-05,2024-10-08,246
+132,Trace Elements Injection,"May 26, 2016","Jul 28, 2015",2015-07-28,2016-05-26,303
+319,Trace Elements Injection,"Jul 05, 2018","May 15, 2017",2017-05-15,2018-07-05,416
+654,Trace Elements Injection,"Oct 26, 2020","Apr 08, 2020",2020-04-08,2020-10-26,201
+628,Tramadol Tablets,"Jan 27, 2025","Jan 21, 2020",2020-01-21,2025-01-27,1833
+673,Tranexamic Acid Oral Tablets,"May 07, 2021","Jul 29, 2020",2020-07-29,2021-05-07,282
+223,Tretinoin Capsules,"Aug 06, 2016","Feb 16, 2016",2016-02-16,2016-08-06,172
+900,Tretinoin Capsules,"Feb 03, 2025","Jan 06, 2023",2023-01-06,2025-02-03,759
+598,Triamcinolone Acetonide Intravitreal Injection,"Dec 09, 2020","Sep 27, 2019",2019-09-27,2020-12-09,439
+763,Triamcinolone Acetonide Intravitreal Injection,"Oct 26, 2024","Sep 30, 2021",2021-09-30,2024-10-26,1122
+457,Trifluoperazine Tablets,"Nov 20, 2019","Aug 22, 2018",2018-08-22,2019-11-20,455
+1080,Trihexyphenidyl Hydrochloride Oral Solution,"Jan 31, 2025","Aug 21, 2024",2024-08-21,2025-01-31,163
+711,Trimethobenzamide Capsules,"Nov 30, 2023","Feb 10, 2021",2021-02-10,2023-11-30,1023
+968,Trimethobenzamide Injection,"Sep 25, 2023","Jul 11, 2023",2023-07-11,2023-09-25,76
+992,Trimethobenzamide Injection,"Dec 21, 2023","Sep 25, 2023",2023-09-25,2023-12-21,87
+238,Tromethamine Injection,"Feb 22, 2021","May 02, 2016",2016-05-02,2021-02-22,1757
+194,Tropicamide 1% Ophthalmic Solution,"Jun 16, 2016","Oct 23, 2015",2015-10-23,2016-06-16,237
+547,Tropicamide Ophthalmic Solution,"Jul 24, 2024","Mar 20, 2019",2019-03-20,2024-07-24,1953
+917,Trypan Blue Ophthalmic Solution,"Jul 07, 2023","Feb 24, 2023",2023-02-24,2023-07-07,133
+573,Tuberculin,"Mar 06, 2020","Jun 10, 2019",2019-06-10,2020-03-06,270
+699,Typhoid Live Oral Vaccine,"Jan 23, 2023","Dec 09, 2020",2020-12-09,2023-01-23,775
+609,Ulipristal Acetate,"Jan 14, 2020","Nov 11, 2019",2019-11-11,2020-01-14,64
+680,Ulipristal Acetate,"Dec 11, 2020","Sep 15, 2020",2020-09-15,2020-12-11,87
+511,Valganciclovir HCl Oral Powder for Solution,"Jul 09, 2019","Jan 07, 2019",2019-01-07,2019-07-09,183
+913,Valganciclovir Oral Presentations,"Sep 12, 2024","Feb 07, 2023",2023-02-07,2024-09-12,583
+8,Valproate Sodium Injection,"May 26, 2016","May 07, 2015",2015-05-07,2016-05-26,385
+551,Valproate Sodium Injection,"Jul 12, 2019","Mar 29, 2019",2019-03-29,2019-07-12,105
+657,Valproate Sodium Injection,"Aug 24, 2021","May 07, 2020",2020-05-07,2021-08-24,474
+827,Valproate Sodium Injection,"May 01, 2023","Apr 26, 2022",2022-04-26,2023-05-01,370
+1054,Valproate Sodium Injection,"Aug 12, 2024","Apr 09, 2024",2024-04-09,2024-08-12,125
+1171,Valproate Sodium Injection,"Feb 18, 2026","Aug 13, 2025",2025-08-13,2026-02-18,189
+445,Valsartan and Hydrochlorothiazide Tablets,"Jul 29, 2022","Jul 17, 2018",2018-07-17,2022-07-29,1473
+444,Valsartan Tablets,"Jan 18, 2023","Jul 17, 2018",2018-07-17,2023-01-18,1646
+739,Varenicline tablets (Chantix),"Dec 15, 2025","Jun 24, 2021",2021-06-24,2025-12-15,1635
+587,Venlafaxine Hydrochloride Extended-Release Capsules,"Apr 23, 2021","Aug 30, 2019",2019-08-30,2021-04-23,602
+555,Verapamil Extended-Release Tablets,"Jul 18, 2022","Apr 11, 2019",2019-04-11,2022-07-18,1194
+42,Verapamil Injection,"May 26, 2016","Jun 04, 2015",2015-06-04,2016-05-26,357
+251,Vinblastine Sulfate Injection,"Sep 27, 2016","Aug 02, 2016",2016-08-02,2016-09-27,56
+578,Vinblastine Sulfate Injection,"Feb 25, 2020","Jul 15, 2019",2019-07-15,2020-02-25,225
+720,Vinblastine Sulfate Injection,"Apr 21, 2021","Mar 10, 2021",2021-03-10,2021-04-21,42
+986,Vinblastine Sulfate Injection,"Nov 18, 2024","Sep 01, 2023",2023-09-01,2024-11-18,444
+382,Vincristine Sulfate Injection,"Aug 28, 2018","Jan 27, 2018",2018-01-27,2018-08-28,213
+600,Vincristine Sulfate Injection,"Jan 31, 2020","Oct 01, 2019",2019-10-01,2020-01-31,122
+252,Vitamin A Injection,"Oct 31, 2016","Aug 03, 2016",2016-08-03,2016-10-31,89
+364,Vitamin A Injection,"Dec 20, 2017","Nov 10, 2017",2017-11-10,2017-12-20,40
+727,Vitamin A Injection,"Apr 04, 2022","Apr 26, 2021",2021-04-26,2022-04-04,343
+924,Vitamin A Injection,"Aug 30, 2024","Mar 10, 2023",2023-03-10,2024-08-30,539
+265,Vitamin C Oral Syrup,"Jan 09, 2017","Oct 10, 2016",2016-10-10,2017-01-09,91
+100,Vitamin K (Phytonadione) Injection,"Jul 05, 2018","Jun 29, 2015",2015-06-29,2018-07-05,1102
+566,Vitamin K (Phytonadione) Injection,"Jul 22, 2019","May 23, 2019",2019-05-23,2019-07-22,60
+858,Vitamin K (Phytonadione) Injection,"Apr 09, 2024","Aug 02, 2022",2022-08-02,2024-04-09,616
+197,Yellow Fever Vaccine,"May 21, 2021","Nov 24, 2015",2015-11-24,2021-05-21,2005
+67,Zinc Injection,"May 26, 2016","Jun 12, 2015",2015-06-12,2016-05-26,349
+794,Zoledronic Acid Injection,"Aug 14, 2024","Jan 20, 2022",2022-01-20,2024-08-14,937
+200,Zolpidem Tartrate Immediate Release Tablets,"Nov 10, 2016","Dec 09, 2015",2015-12-09,2016-11-10,337

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or these audits, please cite the repository and the associated paper."
+title: "Shortage Measurement Validity: code and audits for 'When Supply Chain Recovery Data Disagree'"
+authors:
+  - family-names: Rana
+    given-names: Rishabh
+    affiliation: Tarleton State University
+date-released: 2026-10-23
+repository-code: https://github.com/rishabhrana863/Shortage_Measurement_Validity
+license: MIT

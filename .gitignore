@@ -1,0 +1,7 @@
+fda_inputs/
+stage*_audit/
+stage3_ashp/
+stage4_compare/
+__pycache__/
+*.pyc
+.DS_Store

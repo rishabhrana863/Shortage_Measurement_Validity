@@ -1,0 +1,3 @@
+run_utc=2026-10-21T22:42:58.058076+00:00
+excluded	/tmp/claude-0/-home-claude/ec34a52b-b379-507a-a668-cf194a898713/scratchpad/fda_inputs/exc/Products_excluded.txt	sha256=2554a5da6e173de9073de693afd9f65b4187d85ca7ebe38af27df5c585a36923	mtime=2026-10-21T04:06:30
+excluded_rows=206936

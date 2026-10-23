@@ -1,0 +1,36 @@
+R1_days,R2_earliest_days,R2_latest_days,exit_status,generic,in_R1_top20,in_R2_earliest_top20,in_R2_latest_top20,sole_source_point,tier
+1450,221,37,ONGOING,Sodium Chloride 23.4% Injection,1,0,0,0,POSSIBLE
+1450,14,0,ONGOING,Atropine Sulfate Injection,1,0,0,1,POSSIBLE
+1382,1453,1358,ONGOING,Amoxapine Tablets,1,1,1,0,DEFINITE
+1382,1453,1358,ONGOING,Nizatidine Capsules,1,1,1,0,DEFINITE
+1366,1453,1358,ONGOING,Rifapentine Tablets,1,1,1,1,DEFINITE
+1358,1453,1358,ONGOING,"Midazolam Injection, USP",1,1,1,0,DEFINITE
+1358,1177,1166,ONGOING,Midazolam Injection,1,1,1,1,DEFINITE
+1353,1358,1287,ONGOING,"Furosemide Injection, USP",1,1,1,0,DEFINITE
+1353,1358,1287,ONGOING,Furosemide Injection,1,1,1,0,DEFINITE
+1350,1358,1287,ONGOING,Dexmedetomidine Injection,1,1,1,0,DEFINITE
+1350,1008,983,ONGOING,Dexmedetomidine Hydrochloride Injection,1,0,0,0,POSSIBLE
+1336,1358,1287,ONGOING,Sulfasalazine Tablets,1,1,1,0,DEFINITE
+1336,294,271,ONGOING,Sulfasalazine Tablet,1,0,0,0,POSSIBLE
+1329,1358,1287,ONGOING,Hydroxypropyl (Lacrisert) Cellulose Ophthalmic Insert,1,1,1,1,DEFINITE
+1324,1358,1287,ONGOING,Lithium Oral Solution,1,1,1,0,DEFINITE
+1324,1358,1287,ONGOING,Vecuronium Bromide for Injection,1,1,1,0,DEFINITE
+1309,1358,1287,ONGOING,Amifostine Injection,1,1,1,0,DEFINITE
+1137,1147,1136,ONGOING,Cyclopentolate Ophthalmic Solution,1,1,1,0,DEFINITE
+1137,1147,1136,ONGOING,Cyclopentolate Hydrochloride Ophthalmic Solution,1,1,1,0,DEFINITE
+1108,1125,1068,ONGOING,Amino Acid Injection,1,1,1,0,DEFINITE
+1098,1125,1068,ONGOING,Azacitidine for Injection,0,1,1,0,POSSIBLE
+1086,1125,1068,ONGOING,Valproate Sodium Injection,0,1,1,0,POSSIBLE
+1038,1068,1008,ONGOING,Trimethobenzamide Hydrochloride Capsules,0,1,1,0,POSSIBLE
+1037,1068,1008,ONGOING,Rifampin Injection,0,1,1,0,POSSIBLE
+,,,AMBIGUOUS,Hydroxychloroquine Sulfate Tablets,,,,0,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,"Hydrocortisone Tablets, USP",,,,0,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Etomidate Injection,,,,0,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,"Sertraline Hydrochloride Oral Solution, USP",,,,0,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Sertraline Hydrochloride Tablets,,,,0,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Zinc Acetate Capsules,,,,1,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Edetate Calcium Disodium Injection,,,,1,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Paclitaxel Injection (protein-bound particles),,,,1,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Vitamin A Palmitate (Aquasol A) Injection,,,,0,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Iohexol Injection,,,,1,UNRANKABLE (ambiguous exit)
+,,,AMBIGUOUS,Oxytocin Injection,,,,0,UNRANKABLE (ambiguous exit)
