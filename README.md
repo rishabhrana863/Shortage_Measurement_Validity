@@ -1,7 +1,6 @@
 # Shortage Measurement Validity
 
-Code, audits and intermediate data for **"When Supply Chain Recovery Data Disagree: Measurement Validity and Event Reconstruction in Pharmaceutical Shortages"** (single author: Rishabh Rana; target: *Operations and Supply Chain Management: An International Journal*).
-
+Code, audits and intermediate data for **"When Supply Chain Recovery Data Disagree: Measurement Validity and Event Reconstruction in Pharmaceutical Shortages"** 
 The study asks how administrative reporting, product aggregation and shortage-event reconstruction affect the reliability of drug-shortage duration and recovery measurements, using archived FDA Drug Shortage snapshots (2019–2023), the ASHP resolved-shortage list, and the FDA Orange Book / NDC Directory.
 
 ## Headline result
