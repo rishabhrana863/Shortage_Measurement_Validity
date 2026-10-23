@@ -62,8 +62,7 @@ for i, p in enumerate(tail):
 axt.set_xlim(0, max(p["diff"] for p in tail) * 1.22)
 axt.set_xlabel("Days"); axt.grid(True, axis="x", color=GRID, lw=0.6); axt.set_axisbelow(True)
 axt.set_title(f"b. Tail: {len(tail)} drugs beyond 365 d (all ongoing)", loc="left", fontsize=8.8, color=INK)
-fig.suptitle("Figure 2. How far recorded posting dates precede archive-observed onset, 173 drugs", x=0.01, ha="left", fontsize=9.5, color=INK, y=0.995)
-fig.tight_layout(rect=(0.01, 0.02, 0.99, 0.94))
+fig.tight_layout(rect=(0.01, 0.02, 0.99, 0.99))
 fig.savefig(f"{OUT}/fig2_paired_onset_differences.pdf"); fig.savefig(f"{OUT}/fig2_paired_onset_differences.png"); plt.close(fig)
 
 # ------------------------------------------------------------------ Figure 3
@@ -93,8 +92,7 @@ ax.text(2.45, -0.75, "R1 / R2-latest\nduration", ha="left", va="bottom", fontsiz
 fig.text(0.01, 0.01, f"Filled dot = in the top 20 under that scenario. Universe: 173 drugs with a decidable exit; "
          f"{n_unrank} ambiguous-exit drugs are outside the universe (unrankable). Durations for ongoing drugs are elapsed observation times.",
          fontsize=7, color=INK2, wrap=True)
-fig.suptitle("Figure 3. Top-20 persistence membership under three onset definitions", x=0.01, ha="left", fontsize=9.5, color=INK, y=0.995)
-fig.tight_layout(rect=(0, 0.05, 1, 0.96))
+fig.tight_layout(rect=(0, 0.05, 1, 0.99))
 fig.savefig(f"{OUT}/fig3_rank_stability.pdf"); fig.savefig(f"{OUT}/fig3_rank_stability.png"); plt.close(fig)
 
 # ------------------------------------------------------------------ Figure 1
@@ -123,7 +121,6 @@ arrow(17, 50, 17, 42.5); arrow(28, 50, 70, 42.5)
 box(2, 2, 96, 14, "Reconstruction rules compared on the 173-drug cohort with one shared exit rule",
     "R0 NDC-level (pseudoreplication demonstration) · R1 drug, recorded posting · R2 drug, archive-observed onset interval · R3 hybrid ASHP onset / FDA exit (linkage coverage only)")
 arrow(24, 22, 40, 16.5); arrow(50, 42, 50, 36.5)
-fig.suptitle("Figure 1. Sources, linkage, cohort selection and reconstruction workflow", x=0.01, ha="left", fontsize=9.5, color=INK, y=0.99)
 fig.savefig(f"{OUT}/fig1_workflow.pdf", bbox_inches="tight"); fig.savefig(f"{OUT}/fig1_workflow.png", bbox_inches="tight"); plt.close(fig)
 print("written:", sorted(os.listdir(OUT)))
 print(f"fig2: body n={len(body)}, tail n={len(tail)}, median {med}, q1 {q1}, q3 {q3}, max {max(diffs)}")
