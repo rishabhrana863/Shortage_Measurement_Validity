@@ -1,0 +1,7 @@
+tier,comparison,pairs,median_days,q1_days,q3_days,within_30d,within_90d
+CONFIRMED,FDA posting minus ASHP creation (onset),27,21,6,152,14,19
+CONFIRMED,ASHP last revision minus FDA Resolved determination (exit),11,295,-66,575,1,1
+CONFIRMED+PROBABLE,FDA posting minus ASHP creation (onset),64,22,6,152,30,44
+CONFIRMED+PROBABLE,ASHP last revision minus FDA Resolved determination (exit),55,180,-62,640,7,13
+All candidate bulletins,FDA posting minus ASHP creation (onset),74,16,0,143,31,45
+All candidate bulletins,ASHP last revision minus FDA Resolved determination (exit),61,136,-56,629,10,17
